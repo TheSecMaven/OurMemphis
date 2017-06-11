@@ -4,6 +4,8 @@ A Project to shed light on previously difficult to understand and view crime dat
 # Crime Data
 All crime data used is authentic and has been pulled from https://mdsas.memphispolice.org/cw/n/cyberwatch.php 
 
+# Apartment Complex Data
+All apartment names and locations are authentic and have been pulled using the Google Places API: https://developers.google.com/places/web-service/intro
 # Uses
 ## The Betterment of Apartment Complexes
 This tool could be used for a number of things. But let's focus on apartment complexes first. These complexes often provide shelter to the young professionals of Memphis, the future of Memphis in many cases. Yet there are countless complexes that continue to provide breeding grounds for Crime, as this tool will show. This is unacceptable and should be unacceptable to the tenants of said complexes. 
