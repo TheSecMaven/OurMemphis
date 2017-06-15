@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Atrocious Apartments</title>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" language="javascript" src="final_vectors.json"></script> 
+	<script type="text/javascript" language="javascript" src="crime_data_clean.json"></script>
+	<script type="text/javascript" language="javascript" src="building_permit_cleaned_up.json"></script>
+    <style>
+		body {
+			font-family: Arial, Helvetica, sans-serif;
+		}
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #header{
+		height: 5%;
+		width: 70%;  
+	  }  
+	  #map {
+        height: 75%;
+        width: 70%;
+        float: left;
+        margin: 2%;
+        
+      }
+      #info {
+		height: 75%;
+		width: 20%;
+	    float: left;
+	       
+	    
+	    
+	  }
+	  #title-text{
+		  text-align: center;
+		  color: #dddddd;
+	  }
+	  #info-text {
+		
+		color: #dddddd;
+		padding-left: 1em;
+	  
+	  }
+	  #help-text{
+		color: #dddddd;
+		padding-top: 15%;
+		padding-left: 1em;
+	  }
+	  
+	  #footer{
+		float: left;  
+	  }
+	  
+	  .crime_info{
+		 font-size: .8em;
+		 
+	  }
+	  
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        background: #515151;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+	<div id="header"><h1 id="title-text">Your Tool For Finding The Best Apartment</h1></div></div>
+    <div id="map"></div>
+    <div id="info">
+		<div id="help-text"><h2>Select an apartment to view data</h2></div>
+		<div id="info-text"></div>
+		
+    </div>
+    <div id="footer">
+		<button onclick="toggleCrimeData()">Toggle crime data</button>
+		<button onclick="togglePermitData()">Toggle permit data</button>
+		<button onclick="toggleCrimeHeatmap()">Toggle crime heatmap</button>
+		<button onclick="togglePermitHeatmap()">Toggle permit heatmap</button>
+	</div>
+    <script>
+	 
+	 
+      var map;
+      var crimeData;
+      var crimeDataShowing;
+      var permitData;
+      var permitDataShowing;
+      var crimeHeatmap;
+      var crimeHeatmapShowing;
+      var permitHeatmap;
+      var permitHeatmapShowing;
+      var currentlyShowingCrimePins;
+      var currentlyShowingPermitPins;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 12,
+          center: new google.maps.LatLng(35.139784,-89.991499),
+          mapTypeId: 'roadmap'
+        });
+        crimeData = [];
+        permitData = [];
+		crimeDataShowing = false;
+		permitDataShowing = false;
+		crimeHeatmapShowing = false;
+		permitHeatmapShowing = false;
+        var crime_image = "yellow_pin.png";
+        var permit_image = "yellow_pin.png";
+        currentlyShowingCrimePins = [];
+        currentlyShowingPermitPins = [];
+        
+		for(var i = 0; i < apartmentsJson.apartments.length; i++)
+		{
+			var latLng = new google.maps.LatLng(apartmentsJson.apartments[i].lats, apartmentsJson.apartments[i].longs);
+			var marker = new google.maps.Marker({
+				position: latLng,
+				map: map,
+				zIndex: 2,
+				id: i,
+				name: apartmentsJson.apartments[i].name,
+				address: apartmentsJson.apartments[i].address,
+				crimes: apartmentsJson.apartments[i].crimes,
+				permits: apartmentsJson.apartments[i].permits,
+				getCrimesString: function () {
+					if(this.crimes && this.crimes.length > 0){
+						var s = "";
+						for(var c = 0; c < this.crimes.length; c++)
+						{
+							s += "<p class=\"crime_info\">" + this.crimes[c].date + ": " + this.crimes[c].name + "</p>";
+						}
+						return s;
+					}
+					else{
+						return "None";
+					}
+				},
+				getPermitsString: function () {
+					if(this.permits && this.permits.length > 0){
+						var s = "";
+						for(var c = 0; c < this.permits.length; c++)
+						{
+							s += "<p class=\"crime_info\">" + this.permits[c].status + ": " + this.permits[c].address + "</p>";
+						}
+						return s;
+					}
+					else{
+						return "None";
+					}
+				},
+				
+				addCrimeMarkers: function () {
+					if(this.crimes){
+						for(var c = 0; c < this.crimes.length; c++)
+						{
+							var latLng = new google.maps.LatLng(this.crimes[c].lats, this.crimes[c].longs);
+							var m = new google.maps.Marker({
+								position: latLng,
+								map: null,
+								zIndex: 2,
+								icon: crime_image
+								
+							});
+							this.crime_markers.push(m);
+						}
+					}
+
+			
+					return "";
+				}, 
+				addPermitMarkers: function () {
+					if(this.permits){
+						for(var c = 0; c < this.permits.length; c++)
+						{
+							var latLng = new google.maps.LatLng(this.permits[c].lats, this.permits[c].longs);
+							var m = new google.maps.Marker({
+								position: latLng,
+								map: null,
+								zIndex: 2,
+								icon: permit_image
+								
+							});
+							this.permit_markers.push(m);
+						}
+					}
+					return "";
+				}, 
+				crime_markers: [],
+				permit_markers: []
+			});
+			marker.addCrimeMarkers();
+			marker.addPermitMarkers();
+			marker.addListener('click', function() {
+					for(var c = 0; c < currentlyShowingCrimePins.length; c++)
+					{
+						currentlyShowingCrimePins[c].setMap(null);
+					}
+					for(var c = 0; c < currentlyShowingPermitPins.length; c++)
+					{
+						currentlyShowingPermitPins[c].setMap(null);
+					}
+					currentlyShowingCrimePins = [];
+					currentlyShowingPermitPins = [];
+					for(var c = 0; c < this.crime_markers.length; c++)
+					{
+					this.crime_markers[c].setMap(map);
+					currentlyShowingCrimePins.push(this.crime_markers[c]);
+					}
+					
+						$('#info-text').html("<h3>" + this.name + "</h3><p>" + this.address + "</p><p> Recent crimes within .25 miles:</p>" + this.getCrimesString());
+					
+					});
+           
+					
+		}
+		var crimesHeatmapData = [];
+		for(var i = 0; i < crimeDataJson.crimes.length; i++)
+		{
+			var latLng = new google.maps.LatLng(crimeDataJson.crimes[i].lats, crimeDataJson.crimes[i].longs);
+			crimesHeatmapData.push(latLng);
+			var marker = new google.maps.Marker({
+				position: latLng, 
+				map: null,
+				zIndex: 1,
+				icon: crime_image,
+				date: crimeDataJson.crimes[i].date,
+				type: crimeDataJson.crimes[i].type,
+				name: crimeDataJson.crimes[i].name,
+				address: crimeDataJson.crimes[i].address,
+				title: crimeDataJson.crimes[i].date + ":" + crimeDataJson.crimes[i].type
+			});
+			marker.addListener('click', function() {
+					$('#info-text').html("<h3>Individual Crime Details:" + '<br><br>' + this.name + "</h3><p>" + "Occured on " + this.date +" on the  " + this.address);
+					});
+			crimeData.push(marker);
+		}
+		crimeHeatmap = new google.maps.visualization.HeatmapLayer({
+			data: crimesHeatmapData,
+			dissipating: false,
+			map: null
+		});
+		var permitsHeatmapData = [];
+		for(var i = 0; i < permitDataJson.permits.length; i++)
+		{
+			var latLng = new google.maps.LatLng(permitDataJson.permits[i].lats, permitDataJson.permits[i].longs);
+			permitsHeatmapData.push(latLng);
+			var marker = new google.maps.Marker({
+				position: latLng, 
+				map: null,
+				zIndex: 1,
+				icon: permit_image,
+				status: permitDataJson.permits[i].status,
+				address: permitDataJson.permits[i].address,
+				title: permitDataJson.permits[i].date + ":" + permitDataJson.permits[i].type
+			});
+			permitData.push(marker);
+		}
+		permitHeatmap = new google.maps.visualization.HeatmapLayer({
+			data: permitsHeatmapData,
+			dissipating: false,
+			map: null
+		});
+		
+    }
+    function toggleCrimeData()
+    {
+		if(crimeDataShowing)
+		{
+			hideCrimeData();
+			crimeDataShowing = false;
+		}
+		else
+		{
+			showCrimeData();
+			crimeDataShowing = true;
+		}
+	}
+	function togglePermitData()
+	{
+		if(permitDataShowing)
+		{
+			hidePermitData();
+			permitDataShowing = false;
+		}
+		else
+		{
+			showPermitData();
+			permitDataShowing = true;
+		}
+	}
+	function showPermitData() {
+		for(var i = 0; i < permitData.length; i++)
+		{
+			permitData[i].setMap(map);
+		}
+	}
+	function hidePermitData() {
+		for(var i = 0; i < permitData.length; i++)
+		{
+			permitData[i].setMap(null);
+		}
+	}
+		
+    function showCrimeData() {
+		for(var i = 0; i < crimeData.length; i++)
+		{
+			crimeData[i].setMap(map);
+		}
+	}
+	function hideCrimeData() {
+		for(var i = 0; i < crimeData.length; i++)
+		{
+			crimeData[i].setMap(null);
+		}
+	}
+	function toggleCrimeHeatmap(){
+		if(crimeHeatmapShowing){
+			crimeHeatmap.setMap(null);
+			crimeHeatmapShowing = false;
+		}
+		else{
+			crimeHeatmap.setMap(map);
+			crimeHeatmapShowing = true;
+		}
+	}
+	function togglePermitHeatmap(){
+		if(permitHeatmapShowing){
+			permitHeatmap.setMap(null);
+			permitHeatmapShowing = false;
+		}
+		else{
+			permitHeatmap.setMap(map);
+			permitHeatmapShowing = true;
+		}
+	}
+			
+
+		</script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAO2iIrkOKTRo68MhBw0tvD7v1XgVvwhjI&libraries=visualization&callback=initMap">
+    </script>
+  </body>
+</html>

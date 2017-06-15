@@ -26,7 +26,6 @@ while(iterate < len(input_files)):
             all_lats.append(line[0])
         iterate += 1
 iterate = 0
-
 while(iterate < len(input_files)):
     with open(input_files[iterate]) as infile:
         infile.readline()
@@ -35,7 +34,6 @@ while(iterate < len(input_files)):
             all_longs.append(line[1])
         iterate += 1
 iterate = 0
-
 while(iterate < len(input_files)):
     with open(input_files[iterate]) as infile:
         infile.readline()
@@ -53,7 +51,6 @@ while(iterate < len(input_files)):
             all_addresses.append((line[5]))
         iterate += 1
 iterate = 0
-
 while(iterate < len(input_files)):
     with open(input_files[iterate]) as infile:
         infile.readline()
@@ -76,5 +73,5 @@ crime_summary = {}
 for lat in all_lats:
     crime_summary[lat] = {'name':all_names[count],'address':all_addresses[count],'lats': lat ,'longs': all_longs[count],'type': all_types[count],'date':all_dates[count]}
     count += 1
-print (len(crime_summary.keys()))
+print "Total Crime Count: " + str((len(crime_summary.keys())))
 outfile.write(json.dumps(crime_summary,indent=4,sort_keys=True))
