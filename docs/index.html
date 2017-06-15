@@ -70,7 +70,8 @@
     <div id="map"></div>
     <div id="info">
 		<div id="help-text"><h2>Select an apartment to view data</h2></div>
-		<div id="info-text"></div>
+		<div id="info-text">         
+       This page is meant to show all relevant information regarding any marker you click on. Functionality is limited due to github pages. </div> 
 		
     </div>
     <div id="footer">
@@ -109,7 +110,6 @@
         var permit_image = "yellow_pin.png";
         currentlyShowingCrimePins = [];
         currentlyShowingPermitPins = [];
-       $(#info-text) = "This page is meant to show all relevant information regarding any marker you click on. Functionality is limited due to github pages." 
 		for(var i = 0; i < apartmentsJson.apartments.length; i++)
 		{
 			var latLng = new google.maps.LatLng(apartmentsJson.apartments[i].lats, apartmentsJson.apartments[i].longs);
