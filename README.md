@@ -21,3 +21,5 @@ This tool could be used to predict spikes in crime near a public park. This coul
 We live in a great city. With this tool, I hope the people of Memphis can have a better understanding of what is happening in our city. Not only this, but I hope we can find ways to solve these problems that we face so that the future of Memphis is nothing but bright.
 
 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
