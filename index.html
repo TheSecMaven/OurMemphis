@@ -214,20 +214,20 @@
 					
 		}
 		var crimesHeatmapData = [];
-		for(var i = 0; i < crimeDataJson.crimes.length; i++)
+		for(var i = 0; i < apartmentsJson.crimes.length; i++)
 		{
-			var latLng = new google.maps.LatLng(crimeDataJson.crimes[i].lats, crimeDataJson.crimes[i].longs);
+			var latLng = new google.maps.LatLng(crimeDataJson.crimes[i].lats, apartmentsJson.crimes[i].longs);
 			crimesHeatmapData.push(latLng);
 			var marker = new google.maps.Marker({
 				position: latLng, 
 				map: null,
 				zIndex: 1,
 				icon: crime_image,
-				date: crimeDataJson.crimes[i].date,
-				type: crimeDataJson.crimes[i].type,
-				name: crimeDataJson.crimes[i].name,
-				address: crimeDataJson.crimes[i].address,
-				title: crimeDataJson.crimes[i].date + ":" + crimeDataJson.crimes[i].type
+				date: apartmentsJson.crimes[i].date,
+				type: apartmentsJson.crimes[i].type,
+				name: apartmentsJson.crimes[i].name,
+				address: apartmentsJson.crimes[i].address,
+				title: apartmentsJson.crimes[i].date + ":" + apartmentsJson.crimes[i].type
 			});
 			marker.addListener('click', function() {
 					$('#info-text').html("<h3>Individual Crime Details:" + '<br><br>' + this.name + "</h3><p>" + "Occured on " + this.date +" on the  " + this.address);
