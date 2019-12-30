@@ -12,9 +12,9 @@ all_types = []
 all_names = []
 all_dates = []
 
-outfile = open("/home/pi/OurMemphis/crime_data_clean.json",'w')
+outfile = open("crime_data_clean.json",'w')
 count = 0
-path = "/home/pi/OurMemphis/crimedata/"
+path = "crimedata/"
 input_files = [f for f in os.listdir(path)]
 iterate = 0
 os.chdir(path)
