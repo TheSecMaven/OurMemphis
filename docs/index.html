@@ -216,7 +216,7 @@
 		var crimesHeatmapData = [];
 		for(var i = 0; i < apartmentsJson.crimes.length; i++)
 		{
-			var latLng = new google.maps.LatLng(apartmentsJson.crimes[i].lats, apartmentsJson.crimes[i].longs);
+			var latLng = new google.maps.LatLng(crimeDataJson.crimes[i].lats, apartmentsJson.crimes[i].longs);
 			crimesHeatmapData.push(latLng);
 			var marker = new google.maps.Marker({
 				position: latLng, 
