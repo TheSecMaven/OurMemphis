@@ -1,0 +1,687 @@
+{
+    "html_attributions": [], 
+    "next_page_token": "CoQC8gAAAExJDQafsmFy_U13Zip1J6_baoKfljYQbV4O32dGNSYwmOu05jrMPiEAiKWRR0Ab1dV-W0ZNxPo5ARZjyZAS4IgNHXs9BCgBR3QMiwerQiYa1tPk3mi4PvYzEg_clIwZx0Xv990ptmYPptETPT6RFNNGJlDU6LnNwnnZ5ZDUXERx6QT2g9xwc4Cd08N3p_AFgZS5o8HCsj4uqfWy2VJ3E9rEBWB19owRPoGsiwpRCOxpw1IQJ1lx_n_Sn-5DDzxbrchDfeWOUOVrJJ2m1OXL2cldXbbQuRIVmmgJ8PJOy0H947lemLL91CJcqYVQ4FKTG5shTZ_wf6v0teA6dMwao0ESECrrC6T1D5IuXBWrmHk9za4aFJTt02hxoOCFqJ5-ZBZogAgGwVQS", 
+    "results": [
+        {
+            "formatted_address": "374 Mill Ave, Memphis, TN 38107, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.157921, 
+                    "lng": -90.0377649
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1587157302915, 
+                        "lng": -90.0367463197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1560177697085, 
+                        "lng": -90.0394442802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "cf71539625cc1c399b18361c38b1e96240dcf175", 
+            "name": "Metropolitan Apartments", 
+            "place_id": "ChIJ-Xf12vd-1YcR_WPLdW_E0L0", 
+            "reference": "CmRSAAAAZuxn_Za-ZxUq6a8Z9SNgBVTOCimbuQFefDd5JyZ4P4_px2zo43X8OOdkH3COI7EfpI4UWhsGNLkG_DyXz-lyxNApNKSbVMy2gCVj6f8fK8ajek3mvmnwGjiLrJts6iIjEhB8ZbKqPiNB1ytUIyTuWtcGGhRRcastn7hnz_d-jd8EGWImRWga2g", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "57 N Somerville St, Memphis, TN 38104, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1415514, 
+                    "lng": -90.0255569
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1428892802915, 
+                        "lng": -90.0240936197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1401913197085, 
+                        "lng": -90.0267915802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "75ea68aa33e18a23cbcfac06e81302b56252fe98", 
+            "name": "Park Tower Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 398, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116836962871853846898/photos\">Park Tower Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAsgB2POwCsaX7tL_gdamIBSbAr06qd0SzapZ2JPNmnoI080RHjQfFJqusfGpY3HbGj4_9Gr56-qw-0JSwNyqBa4GfojS0fRbINPLjurTaobIyFO3vHJErZVv28MTVFkKWEhCOMIsp6oHDvkbZcwczFnEWGhTho-mbY2zKgG5-LohmRFKlR-E-Ag", 
+                    "width": 398
+                }
+            ], 
+            "place_id": "ChIJ-wf_4m5-1YcRdlQdPh2rcZw", 
+            "rating": 2.6, 
+            "reference": "CmRSAAAADAW5blWJLublPFvdSjLfbpEJglsxvNUjOza5PvhI30ZsrKRbCWtiPf6XNaiHGMIo8uVVqcP5W0ddHSAyQhN5B3fi3EIqVTGHTeUI-n9QHUsKN6__Ai089Ojn892f7SrHEhAUMjD16aEmYt4bbciFxUfDGhSvS7yfEbU-owsFEaV5tFc564vi1Q", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "198 N Pauline St, Memphis, TN 38105, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1466236, 
+                    "lng": -90.02806620000001
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1480679802915, 
+                        "lng": -90.02670411970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.1453700197085, 
+                        "lng": -90.0294020802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "0127b3f5d1d245b5075529b981a5a8e0fe166961", 
+            "name": "Legends Park", 
+            "place_id": "ChIJWcCGJmZ-1YcRCuRxFLvaG50", 
+            "rating": 2.3, 
+            "reference": "CmRSAAAA6yd5TSytK-knAmW5QTIGgsjeDMFS4F3ygo-EfmlbJ1OhlebO5NiQbEZFPljAE4pTcFYlxY-vL1BZhBkyyOLwdXg0vaG4DFMHvtRqtb9YJ0WeqnA9_758whg3qZCAVWFDEhAgfQWR-enBoi2X05J5EE9tGhStksZz_G2U8PpAMCReCzou0F4ELg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "282 N 3rd St, Memphis, TN 38105, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.15093259999999, 
+                    "lng": -90.04607229999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.15228158029149, 
+                        "lng": -90.04472331970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.14958361970849, 
+                        "lng": -90.0474212802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "ea5975428304abe0f1adbdf378538027670dfd96", 
+            "name": "Uptown Square Apartments", 
+            "place_id": "ChIJGQQ1m-1-1YcRh9vE3R2qCvg", 
+            "rating": 1, 
+            "reference": "CmRSAAAAXHcYpPg6J6SpjkVFq-IMk4PHB6DinhQzq_FFOsdH3XIun7BHS0_c2xm0lR6PaagR9hAvys8L7gcQ4KrGA9dlzcdzjJHSKrkPAIgFy7FkkYLHWurSRnJdIE9T9iXERiDvEhAslMBu1kwzqIumRQ9I48fgGhTZwYVPHFsZy-ULvNt-T3Af52jP1g", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "994 N Watkins St, Memphis, TN 38107, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1656032, 
+                    "lng": -90.0103206
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1669518302915, 
+                        "lng": -90.0089515197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1642538697085, 
+                        "lng": -90.01164948029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "3f67e84c48a163645f5391b9640e880ce19af227", 
+            "name": "Saints Court Apartments", 
+            "photos": [
+                {
+                    "height": 1920, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115662834348902774551/photos\">Tameka Miller</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAAZrslM-v2-1qTeTEjn0OUUQr726CtBQqaUnQfbplOi-1p-Ng7kdYCfNiigi3i8DBkaBdDWnFXIEYeAmFN_3dzmWCO8uaNtJZeFoE79cwKFCQBHKKwtdbqjDjsvgNQjPnEhCGf5jyWTQScqKHGq8UugIOGhSB0_fSggCEcbYn3_WTCYVgt2dFkw", 
+                    "width": 1080
+                }
+            ], 
+            "place_id": "ChIJqRcuHjJ-1YcR8bYAfSvVT7M", 
+            "rating": 4, 
+            "reference": "CmRSAAAAP9VAFrM4DP3POYEo3k78mqtjseG--yKs_17C6THzoHb9BKCBsD4uGYUvjax113_sE0QcHHXuq1XrzsqdYyF7Np1fjgqwdLdws3aBW0CVQehXiLOukM5_ai4M57nFC1X1EhCQViJbDe5yg_Kk2H-qTIRjGhTOOmIYxBol8xUKWNjeiSKnIh2q_Q", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "648 N Main St #101, Memphis, TN 38107, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.16227059999999, 
+                    "lng": -90.04567449999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1636560802915, 
+                        "lng": -90.0444551697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1609581197085, 
+                        "lng": -90.0471531302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "9ef52e97de4770985c962d831b6f40abf4a42565", 
+            "name": "Riverbend Place Apartments", 
+            "place_id": "ChIJQ7h1z_p-1YcR51t7XQfHarM", 
+            "reference": "CmRSAAAAnUzNWAOpQ1V5QUxg4dJFAMbZnpDB9JOPFbW-vnrlUq5zxgdblJE4HDi6BCsm88CBUh5htD7QOZ64xI4lWUcuZ0v2-YczWxw1ox8bnZujQKvv4qqSl1C3Klv1lCWuyXWxEhAwh3C93LgTVn-Xxp2eo_kKGhTc73-pK-ETmSckAJsrTXX1YEWmsA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "567 N Jefferson Pl, Memphis, TN 38105, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1439393, 
+                    "lng": -90.0422691
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14608835000001, 
+                        "lng": -90.04063141970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.14322295, 
+                        "lng": -90.0433293802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "0f1152364ab87c7fec974c6610313661229065b9", 
+            "name": "The Edison Apartments", 
+            "place_id": "ChIJARJEBox-1YcRBsqJmZ5IlIk", 
+            "rating": 5, 
+            "reference": "CmRSAAAAtOh5bS-9DDIz1B4MxtMyTmDEwYk9xhXuFkP5vxMLq8z8WEiPcVLXNLJjoC4uuWXDDvZPwXDdLAUl6uISqQHBwB40ixZ_cu5ehCq7weSpmU774gLbn31NFFCMw-fouCIREhAsjEm-kBZDBLKdK0p-7shZGhS3FZ3MwapagbaeESzZp6aSFTv5bA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "281 Bickford Ave, Memphis, TN 38107, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1645402, 
+                    "lng": -90.0389933
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1659626302915, 
+                        "lng": -90.03763361970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.1632646697085, 
+                        "lng": -90.0403315802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "4764d88f2293b315e9a0bbb3c3f10736c14da6e2", 
+            "name": "Bickford Square Apartments", 
+            "place_id": "ChIJyRX6xfh-1YcRI96EDXFPhns", 
+            "rating": 4, 
+            "reference": "CmRRAAAAxaoA8Tv8sk4j2h6nL-QGL4uOPq-EgAAiEPeS_dobo2pSYJQ7zZ9FkUT2yWia0F8kzLbWcebQXikUXbBoSKk6EAZsK8CNe7MoNcroaUD47VwKyv8w5xyTQ8pjGaa8bxx1EhCSKvqeU3YU68lvFCHqNStOGhRvli17kE-C4Ujr9DFCM64z1a08sA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "1415 Breedlove St, Memphis, TN 38107, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.178659, 
+                    "lng": -90.021644
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1800072302915, 
+                        "lng": -90.0201119697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1773092697085, 
+                        "lng": -90.0228099302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "1f189277e94332d85f158dd5c00ca7351152257a", 
+            "name": "Chicago Park Place Apartments", 
+            "place_id": "ChIJj3jC5LZ_1YcRGIujzj2MhYQ", 
+            "rating": 2, 
+            "reference": "CmRSAAAAeBq0TjX7UMD2V5mnWycAnRxxtpPkMhLfShTvsJy-2fntYo12I7OWgLzEQIX4TSZkzlakPHAMksVn6K7Me0e2fnmjVsyR8sZ2FdxdwGW3QKArhn1eSuyHBOQjVKw5nCmdEhCn_8q4enwBtdqHkTkJe3lqGhQowLuoaO16ewKMDL3UhHfiT1r05w", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "252 N Lauderdale St, Memphis, TN 38105, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1504959, 
+                    "lng": -90.04327099999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.15185898029149, 
+                        "lng": -90.04246471970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.14916101970849, 
+                        "lng": -90.0451626802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "bfeefa90a3c5c89850cb4ecb1f18f6d956f70ca2", 
+            "name": "Uptown Square Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 296, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114132074471606282516/photos\">Uptown Square Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAZ83dEFIMYgfrmBJCDj28Lp7yRzOTcfzhkafUvhuRKgd0KGSf2l7viIAGsEg5IH6CeBbR_5DHi9MQ9yQmRB4UEK9v4ScAmVQCy4PSNmi9O5EVbl3SHh8RpF5R8kVDKuGFEhB6da-iamPMmZYokq-z0lOBGhRcXiP2rUHuA6hLHiCTQ4vkpomStw", 
+                    "width": 774
+                }
+            ], 
+            "place_id": "ChIJoXgGa_N-1YcRLL6Be5pcNiI", 
+            "rating": 3.9, 
+            "reference": "CmRRAAAAEoK6DK-S4DUeEyI4DanSwc_7KlqI58tv7lhDwTnLGNRKL7U9szeQ1tXTWzuDP3g8O10QhT5dJ-QGQk0dXiRNeuaH6zhLPTj67C73x9JUUbZVdulfSslRm67SMaLx2KbxEhBcUYxqDiL9fuhyV0zUdfqQGhRM1grbuc6PUcGa77zB_jmI3wSK8w", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "99 N Main St, Memphis, TN 38103, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.147656, 
+                    "lng": -90.05251
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14893248029149, 
+                        "lng": -90.05088811970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.14623451970849, 
+                        "lng": -90.05358608029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "96ef199b9fcbf3c8d8017308033deeba99316b7c", 
+            "name": "The Renaissance Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 1278, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107782687270681247995/photos\">The Renaissance Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAxNW56aroxc55X47Y61zv5wmVDkYRFk0p6n9oQRfu6AAKZUXiowsBgZ3vTE2aw94HDMrzZSdjoflLha_GeZVVZxWslR8MjIJTih7x3tOpkQr2_SiJ7FcI6EB5cH2EZOYxEhB37FceRdJApgEzUoX3w44iGhSovLK9sP3f5JFVL7fhD6nZ9TGsFg", 
+                    "width": 1278
+                }
+            ], 
+            "place_id": "ChIJwYKAwJR-1YcRorKxRCC24pQ", 
+            "rating": 4.5, 
+            "reference": "CmRSAAAAiHhgDRFRdKYNHlM-MeXW14zWmdO_eqTQX6wTZmVjPzR5mvMHWtgtmx_4TAjqh2cbM7tRwaHUN3hhw84m7X0YnMdC8h20pZm5C4P7R_CAOHFd9JmHZ4-cHMHbxLCf91xjEhAiKFT-5-OLUgejzm6w7VezGhQ8AwFyVQhPLKjJZkwrPSnY7iZXMA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "9 N 2nd St, Memphis, TN 38103, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1450269, 
+                    "lng": -90.0517543
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14633973029149, 
+                        "lng": -90.05028556970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.14364176970849, 
+                        "lng": -90.0529835302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "9e8978145f08ee07d355c8cfa450621f70cc0de6", 
+            "name": "The Exchange Guest Suites and Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 2160, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107511200739714168138/photos\">Trey Willis</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAq7PD6lhRsI0G00oOU-UC6OyvVsXbjTH3JALulIWp2JEAGoFD9jWoKhlWdLdwgPEgttee4bc1TuI4ZwZNNinFq8IolAnUtbrOxHaBeK6ZyTlnHh61vQDaCKMzxAspYOGlEhBOxTExyd22lybvQO12mJuDGhQ6dm_j3-g3O5C1JlhOKxmt-O3lag", 
+                    "width": 3840
+                }
+            ], 
+            "place_id": "ChIJDQ_rdpR-1YcR60nANKLWWDI", 
+            "rating": 3, 
+            "reference": "CmRRAAAA3vy7mad30uJ9S8V5vsmBqDfZZiW4NlDbbav8oAnCLIqAzLOqerWbyeFDReomvVfh6tqItkYht_uTLy7eCbK4nodb8PUDFZQ5N2Roc9QL6HKSenuSvwo75TQ_wsnaRNEFEhBISiv2rV8IKMKT0Kg-oe3pGhSIykIeRu1uJIzt3nrZg8zARH8p7Q", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "198 N Pauline St, Memphis, TN 38105, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1456968, 
+                    "lng": -90.02778339999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14706538029149, 
+                        "lng": -90.02663926970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.14436741970849, 
+                        "lng": -90.02933723029149
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "52cec2a815d8ce12c3adc1a983bb671ec7773ebb", 
+            "name": "Quimby Plaza", 
+            "place_id": "ChIJp6fAg2h-1YcR5hNJbaS-hXY", 
+            "reference": "CmRRAAAAahopnMtyRvjmPQWTT0lYKzfVzXyNbx9QGEQqvpEDTMzAI-4Q1obEfQJQeUtWFYkDh5eDfsX7INga5yW6lvXjpTlPPw1dLQDSa_v0RACfRJlVUoHuEeNWwUVgjKWcB3NXEhDfqb-WMgcbx0AEkUzztZD9GhRC0FgBFYc7Wkc9NltqmtztHdv77w", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "Countryside Apartments, Country Manor Dr, Memphis, TN 38133, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1960296, 
+                    "lng": -89.83239309999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1973988802915, 
+                        "lng": -89.8310400697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1947009197085, 
+                        "lng": -89.83373803029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "852d0d2aa89352d5eb99b078a88a6a06cb5f4a76", 
+            "name": "Countryside North Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 406, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114046163945700267058/photos\">Countryside North Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAYQNG2qP5cuACiiOOBPmOMsEZdRgi0z6jIhSlURQ80hJhiA2VJoh8kQR19IuLqT96ty5-Yo06FzCePFHPjnYwGxUZ6uGeeAgglFKU-GtgpV_Qs1EJxqgncWpeDWrbMjfSEhA0oRXZEx-1tj2lJBlnQNbGGhT9g9Rj_13ORtPgoItQW_jWNXOLKg", 
+                    "width": 406
+                }
+            ], 
+            "place_id": "ChIJUw7Sz0Gdf4gRveKrV5LCwM4", 
+            "rating": 3, 
+            "reference": "CmRSAAAAx6kawJF8mQ1t58IgECqAg3kiHdHmIc0JyNQQP5frbmkev7xvvGADYQQ3cWmaY7dIzea4P8updDVJOeVG1abXU2iKc2oaEpc88YhBI9KJlqoIHG90N6_WI_EIjeovhJLfEhCnT0Wrf94iLy3cjSrtFoeAGhQ62AoW43h8lY6F0aIEmmCnrkkIGw", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "170 N Hollywood St, Memphis, TN 38112, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.139995, 
+                    "lng": -89.977987
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1413804302915, 
+                        "lng": -89.97702266970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.1386824697085, 
+                        "lng": -89.9797206302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "cce813156f7a717b7160d6094a57ac87c0dfc4ce", 
+            "name": "Woodcrest Apartments", 
+            "place_id": "ChIJV2FlXcaAf4gROvd9-8Jw7lM", 
+            "rating": 5, 
+            "reference": "CmRRAAAAkD2mti8gvKPBAo3nUF7Da_M_RhVdNgtV0lCY5T_dqJflgSeC50YYmQSsD8OaYHj2bCXXZrKKOkslc1couYX04t5cUxtng1nzjbFzoDXY9KYuhvwDXUwEW9dZ45O70UkiEhD_syVUdWvlkw3Sfy9W-Za0GhSwdlvgitXmyZqBu8t8oFW0QdXi6g", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "Memphis, TN 38105, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1516237, 
+                    "lng": -90.0349866
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.15297268029151, 
+                        "lng": -90.03363761970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.15027471970851, 
+                        "lng": -90.03633558029149
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "d6f186cfc5831aa82db3e88dbd1ecbfadd1e5337", 
+            "name": "Reserve Apartments Gate", 
+            "place_id": "ChIJAQAAAF9-1YcRtd1CMjhMH64", 
+            "reference": "CmRSAAAAOvbqNb-s2OWung-OAEL78TGcxYrY27G3GiNd76ysFENDRNSVh30T1wf2oj_ZrgmFFNtm6csRkMen7xl5-uHeACmL3xHYi2zcK1tmIboUfxa-pTAIR41I85oKKrbyffZ4EhCwnT4B38_Ks77Ofwouhp4RGhRB5CCAL_qfVpWXWJWWnoV8nuBXFQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "1086 Nichols Blvd, Memphis, TN 38103, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1729162, 
+                    "lng": -90.037143
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17426518029149, 
+                        "lng": -90.03579401970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.17156721970849, 
+                        "lng": -90.0384919802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "058784030cf82164374f32d19f210673817ec561", 
+            "name": "Annandale Garden Apartments", 
+            "place_id": "ChIJLWjSnKp_1YcRIxJ36we30o0", 
+            "reference": "CmRSAAAAQ1tScXfSRQjYkMv1oZR6wPq6uzxjsklQjYEmdpoCEUPv1rxxUaQ-oo8ncE9jCtdTSgUgSTQTzW3o92aPfzD6HO1RDen0YlqEwWaQfShK1hvMp5FWkaaXY__aa9mOEs8vEhAZ7uPlHysyvbIvHvfEycd2GhR_keX5tjDhAOeHyiszbTg-mdtwsQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "62 N Main St, Memphis, TN 38103, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1469346, 
+                    "lng": -90.0517258
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1483223302915, 
+                        "lng": -90.0505206697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.14562436970851, 
+                        "lng": -90.05321863029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "642a999d917b6a2e0c08e07d24293f563395a114", 
+            "name": "Court Square Center", 
+            "photos": [
+                {
+                    "height": 3000, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107804930609525260259/photos\">Gary Bridgman</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAA6Ku38njEv-JvFmw83E9Wch2fnsvrCjulCWTzgv63aigxjhvCuvX9hcEM9k6uw4rKqQ4wwO39o_78N-oE1B0nfr7I0zw59synck25oFqcHVABxoXi0UQ6UMp59GQXxFmWEhDWu-60tMjj4aC3cm6h9FM8GhRjrE1AF6eA9EMRVvJG4qz6RL76Nw", 
+                    "width": 4000
+                }
+            ], 
+            "place_id": "ChIJIYHpkZR-1YcR62kg-a4fo0A", 
+            "rating": 5, 
+            "reference": "CmRRAAAA_zPY_u2CdetJjuL9oKdnW2p1cYKsCdBd1gOJImLALyU3XB4ktuRxJ2R-3lI7l-nW4AhAjOJEnrNFthkdAr9dwH4fEXEtvglnToWTOninNdYWHgD4-J3caSblDfaH4TH-EhBelQrC0LqrYMHwAQ-Zr49BGhR978TaUp01TQqwRYX968Zpz6mQdg", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3815 N Advantage Way Dr, Memphis, TN 38128, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.2013543, 
+                    "lng": -89.9360963
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.2027811802915, 
+                        "lng": -89.93484426970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.2000832197085, 
+                        "lng": -89.9375422302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "a5698945cbe655c79338408c25b87e34448d0f18", 
+            "name": "Jamesbridge Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 608, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110152062870388230430/photos\">Jamesbridge Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAbrf9wu_KEKT2JUEYufPiHnNlYgPCpuRB478g7GZyUI3ffE_eyZKJ7l7vt89Z9fOdzwMWWay4TbJY_3dM4kST6AkfunHEbGM5B2Lzk_qDVLwM1ihXq692RIIS1hJuw0YtEhARt6NeQHY8TfRJR4YnJJHJGhQVmSNg7dP0PrXqScCw_MQOYVPFFQ", 
+                    "width": 1083
+                }
+            ], 
+            "place_id": "ChIJrRUfvOWBf4gRZgth5ka8n3w", 
+            "rating": 4.1, 
+            "reference": "CmRRAAAAIgnWozlISnKusBeCZoabdf2yCsRzcREG_3G7jJ6eXQHL_-V9yeYqV4xMIUQOgHIBR52lzfwNpOpw_XwLipnF_SfaqySA0ruGWFHojLP7V92n6t5LGzIqiub1wTPmI2IfEhDrTJfM3ZWfINNw7j_FnBtGGhScoRY8fwtdEh1Rrextq3fxeFE8gA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "121 N Montgomery St, Memphis, TN 38104, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.142683, 
+                    "lng": -90.020083
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1440150302915, 
+                        "lng": -90.0185586697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.14131706970851, 
+                        "lng": -90.0212566302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "9d677bca20938269b9c11549994f7c93a486efaa", 
+            "name": "Midtown Rooms", 
+            "place_id": "ChIJk7BXl2x-1YcRTqs6Bf9bmEY", 
+            "rating": 5, 
+            "reference": "CmRRAAAAQAmUXZw7dK9AYXSwL620KWtOKIUtup8GG64aL-lqfJfu34_Tst9VMgNg5IW_mmojGVOOtteb3gHfrUG_BHzEr2T3c_XbvEDsRaY5ebqGF90QRX0_2kTk8U0Ai4EuB5V4EhBKJj17e6pD_ngJUQUqJr8gGhRG0AYRJhteW3kebZE3yktdKb1zZw", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }
+    ], 
+    "status": "OK"
+}
