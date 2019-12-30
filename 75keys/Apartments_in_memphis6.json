@@ -1,0 +1,794 @@
+{
+    "html_attributions": [], 
+    "next_page_token": "CqQCEwEAAAmUtiTkdoU_Q8gDu27fvQbEXPLBdGoRd6EtPTDRcgIdPFP51kKQsLWHBP79PcqjMW5fPQ1N9b0TDtiLCwU6rwtxxx8-JrSyyj5C0JD83cOTJOpA3oWI_JG8kTm9EQTd2P23IwA17uSFoaxZ97UvCr9IJXhxOe-ya4Z1efhs8nScq1famut-8W-T2vm3ykCWPW2A6IbUIxa37B_FimrMophgXy1hJb6A8Cy2wjqxzSy7kH4hnv06fGYkVfdW3YbfM9SdEn--DaYEi-LFJR_PYFKeMtSffcFdkV4ZxdQjDFqGrssRTAAmLuLod3yd5-7h-IBAGwtj6VdANdF70phhWp0girZnw8OQzJwIo0hYWBuvELRo166AwizyN5iRXwplfxIQLebXzJ21oNczJdz6UejWCRoUAH6eeD3p9RiPgSXwH_pdy8QIG6c", 
+    "results": [
+        {
+            "formatted_address": "1810 W Wolfchase Cir, Cordova, TN 38016, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1755451, 
+                    "lng": -89.78919830000001
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1768984802915, 
+                        "lng": -89.7880380197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1742005197085, 
+                        "lng": -89.7907359802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "414ecc9f7d1670ccf3bc91d481d1d7e47475d2d0", 
+            "name": "The Registry at Wolfchase", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 2988, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102595329790338231600/photos\">Kennesha Adolphin</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAA5Qot6Bk7MERMq5UfBjKg_0LNvwvo4A4bLFsF4X51YWvkgxxy4dCBcq4DDa-cIX9oJSA3aBWJfuYD2tjtA9SYkRVyb7-qUuWaz0Xtq8GG7VdLAOa2iD2cKVaNmN2w1mNDEhAqjHwbmknsC4mAs-NEeqoYGhQ5yBh8PR00UbheQbTYeq7xbb6OkQ", 
+                    "width": 5312
+                }
+            ], 
+            "place_id": "ChIJ1ZKW-cudf4gRl-tNbwOPqns", 
+            "rating": 3.5, 
+            "reference": "CmRRAAAAeWNs2Po3BaIG5vzsAI6NjVDRwHsLQr6NcqNZnSyO3FyJRRLDtsBeaTDi24lm0cX8vcKb8Iu8F0ffC-bD7NAsb49CFOxWaqvz9UiUj9Zhg85rYyW1OhUxybemv34KSP_LEhAQTgl_vEpqIXz987e6UlcMGhSdHVDxDJXeDKTdhN7zSPOV8xF_gg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "536 Shelby Grove Dr, Cordova, TN 38018, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.13831799999999, 
+                    "lng": -89.8022009
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.13964898029149, 
+                        "lng": -89.8009019197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.13695101970849, 
+                        "lng": -89.8035998802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "d44b0e5ef191c048f7cdb770c56a13f38cb80150", 
+            "name": "Park's Edge At Shelby Farms Apartments", 
+            "photos": [
+                {
+                    "height": 1022, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104616362983783996011/photos\">Park&#39;s Edge At Shelby Farms Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAATb2IpJc2k4fki8RgvWSA-9-XKe6UNKwsTduXm7rGqajlXRlQDv0jlRivc8TnV_eQ3psrG3uDKCMQp2oYFFUOAPDWtzIWWz9zGEaAZS09totDEIEORnqfC-ySqCoNM24UEhC5IjRzE-85l4EvD9QcqtasGhSmwctTx5LZyR9Blh15HS_RrhTiWA", 
+                    "width": 1022
+                }
+            ], 
+            "place_id": "ChIJzx7e0XGcf4gRjPpJkR1n6ow", 
+            "rating": 3.2, 
+            "reference": "CmRSAAAAkWqVF2C2jHvmLIYB3j3Lu-im0eE1XbfXqdYyflHfe9vsjTNE6T1bkLe6ewZzd22HohAWHZgbq0q8FZzcS7khQb739h7hOCQ-Jri4erOOGEZb4E_VUX3M3F7ySyUF3h_uEhDa9zmdxQAKa3Yn-4jXxjQuGhRW6KHF72OR1d9-_XGsHF3DEtzmZQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "8345 Championship Dr, Memphis, TN 38125, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.051934, 
+                    "lng": -89.78597099999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0532818302915, 
+                        "lng": -89.78456906970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.0505838697085, 
+                        "lng": -89.7872670302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "963f750a48d5623d9fe4dc325d8e457bcd3d6e20", 
+            "name": "Lincoln On the Green", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 1367, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113976086433435373861/photos\">Lincoln On the Green</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAteG30MON6WTh2NATLP8g1ah2TLLtnolS5T6J-p0k6YUu5pbRM1L5OlGI-0n3A0G4BjtL0LRJFSJCw8sKNfCzBfRySx1PFoy3D2MrMLhZk_UzQrV4nigwFUaIGnrcH2jzEhDq0NzBm835sZu0nO5Rz4XHGhTfnwWkCPZ18GgD481y1_4QsrxApA", 
+                    "width": 1370
+                }
+            ], 
+            "place_id": "ChIJi4OagRCaf4gR1gyd5S-v9f8", 
+            "rating": 2.9, 
+            "reference": "CmRSAAAAhupr8s8fYPFRtCcok0Czr6A_tb8Vq9XCAuPwq3TZoogeY_69ehQgqU05FMBJib5fsAjVZiPoegvEBB79NjRzJ12mwu5_n8F3SzsxagX4XeT3Lpok7HxPA_12jfb50gnMEhC7wAPzEQlu8Fk9tP7Kj2s9GhToBnAPf4LWpavadS0dCkT__Uq1XQ", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "5900 Cedar Forrest Dr, Memphis, TN 38119, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.09375600000001, 
+                    "lng": -89.86567699999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0952587802915, 
+                        "lng": -89.86433106970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.0925608197085, 
+                        "lng": -89.86702903029149
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "370ce5e94486161e9f5ee970c5b83753969f4a2f", 
+            "name": "Lynnfield Place", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 250, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103013710562045429144/photos\">Lynnfield Place</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAVbI868u06OOdLz-83XucnWJ8n4q_FRvFjbQTDCTIRdQOAtSdUGwWuMEhTg8rNG6ObsZp5EF_A8nP9zqMlYpkPqnBsupZBEOwqoLQRyY_dcf7iYFFTnbH0mH0lU6jDEQbEhAjRgJAVQzlckGyqUQu7gLfGhQQra-Hby6wAiyhj6y1gAc5fHrdAw", 
+                    "width": 250
+                }
+            ], 
+            "place_id": "ChIJB2s5VMOEf4gRqdVfiXERFzY", 
+            "rating": 1.7, 
+            "reference": "CmRRAAAAWV5thkNd4T3xIAsmzmbO_3McjZ2iC6aOkZTZF07JFYu3hfLmHuNmT6L6WnLy5YsZpAbEvwLgvlCRmeMCXA19PyfFu8QVOsHLHEtnrUSnmEyUxTT_PS13PTH818kQfW_iEhCYMDidqNCIu64IqkFGzbLsGhTAEqdNkcCtM_7ZcEy5i61CmKkX8Q", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "5545 Murray Ave #206, Memphis, TN 38119, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.102421, 
+                    "lng": -89.87707999999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.10392028029149, 
+                        "lng": -89.87561676970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.10122231970849, 
+                        "lng": -89.87831473029149
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "235d47b493b750317d12b0593b2226787edb761e", 
+            "name": "ForRent.com", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "place_id": "ChIJj_qtDu2Ef4gROtUeI8jYe6Q", 
+            "rating": 1, 
+            "reference": "CmRSAAAAsIHdYS8HVqvE4YSrW6XvanYWT1UbK7fC-uxXjQRzgn9_TM8DO8C0u_ztuPfjo8O9RX4nr6lNDIdBTV8_QRvwwhdK_ooIb7QuzB6sAwe64k5_VYfLWZ-4cxQneadG4QWYEhAXbEANAXM5e8e67anyBkP9GhT0kt7rcr4PzQKuhC7O1KnPDKtWfA", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "4800 Raleigh Lagrange Rd, Memphis, TN 38128, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.19793360000001, 
+                    "lng": -89.9016283
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19879718029151, 
+                        "lng": -89.9009381197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.19609921970851, 
+                        "lng": -89.9036360802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "7f6f53c7f1e35e57ae5a24fe0bf79b20fe747525", 
+            "name": "Jennifer Meadows Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 768, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108110445420886975775/photos\">Jennifer Meadows Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAjFUCXmw5nOqFOtsdlikXdvQRw9OwGEXEFfw6DimakYFSgEgYZhFP4RMI6cyUgMb0mPto6KSKU9rfhGRMMovZKjgKfqScmS9zU9DqR0wHk_GUoCvFRj4pCga6AnEmug6QEhDhOC5382GIXpPWWR3BFxYUGhTUH1Ic9kW6dAnvPuMYanap5Levyw", 
+                    "width": 1024
+                }
+            ], 
+            "place_id": "ChIJVxlmUWmCf4gRsYwvU-smImg", 
+            "rating": 1.2, 
+            "reference": "CmRRAAAA_KhY-TU517OWTAW9j2LQdPM7RWN0AL7EfVEFiW06ny3ez3DGULqw8TmscE8xDtHTGccYxQBm5oJYplYu9bEFRUaG6V5Fxfydy5UZdI3ce7H5CKC9D3HFmHXobPaKnrXCEhDSsAMxYetkGQsuPwMTwEp0GhSZhBhhXmPc0slg93TYt-p2261pNg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "6371 Winchester Rd, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.04791760000001, 
+                    "lng": -89.85156839999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0490923302915, 
+                        "lng": -89.85022186970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.0463943697085, 
+                        "lng": -89.85291983029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "8f92e6b2729ca4c848647b4b2458593abafd4b78", 
+            "name": "Stonebrook Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 1017, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113334282046818228570/photos\">Stonebrook Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAbLvjszhGWMgaOgrRYdKcDXKPPyzzVWUhhjlCSkiTN_RF_TZgrRyioxCn8-xay4EFi54wvVpKQ8vUukSt0gWxe4OdKQ6T_cdb9ajPVFq7kZfUhq7mxc6hdCxRoUi7nqy_EhDYLzQz7k0foVzvY6fxQSoHGhTWfknQtYQZjkkS6q3R572L2f7H5g", 
+                    "width": 1017
+                }
+            ], 
+            "place_id": "ChIJqUWLwlKFf4gREkY8EhLI9wo", 
+            "rating": 2.4, 
+            "reference": "CmRRAAAAlmr3Mre53xZsHY51qu-A-KgojBlw7tOd0qQNsV8e8U5yrcSGlZYMnQR7PLm9TpC_vsHdHvNvltkwlfOe_80zNpbHK6pRjDM5euSRbP2tiyEL5EdKixQNCeBQ-M8DHz7KEhB-SrWdeYhwv5jFQA7KPmy1GhSiEx5_MtX2e_BUjbpnklEout-mpA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "101 Veranda Blvd, Southaven, MS 38671, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 34.9736307, 
+                    "lng": -89.9920736
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.9749796802915, 
+                        "lng": -89.9907246197085
+                    }, 
+                    "southwest": {
+                        "lat": 34.9722817197085, 
+                        "lng": -89.99342258029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "79819b052419eedca29777b37dfaf6fd6e64bd3a", 
+            "name": "Southcrest Lake Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 563, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107481555206798028076/photos\">Southcrest Lake Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAYzJhrtOpwZlD5oE1DryQEIp_PgWkvyzxZLi0sq0hURUS-tHlZzlO-ttM7nPXlYCiaposJux9oyNpNBZG-gR35QGSO4QVmtPAmfg_-TTNflE69Dmn4U2gHB_3iRITdTfWEhCzMjwJfjvC2QAzuYkeWgqxGhRvJmyqUh7QUEfV64EQdB4IoOXvJw", 
+                    "width": 750
+                }
+            ], 
+            "place_id": "ChIJT2hWN92Jf4gRDuY0EApHEPU", 
+            "rating": 3, 
+            "reference": "CmRSAAAAZXRCwpR8m5q5TlWziWVobb08xJp0HBkRYgf5JhdXvPmAtgwyIPm5LGXDu7Bu_1CsyH_Noh5UmB6xN2Oy2fIpowPP7WsQudNocKV5ZqA4kv3VGmPugtO4fDgOzLIwdy6cEhCHYnUKuLLccJNzTEX4q1btGhTo7rYMZKWWpS6-oymAxFCwCW5-mg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "1437 Central Ave, Memphis, TN 38104, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1261857, 
+                    "lng": -90.01439099999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1277033802915, 
+                        "lng": -90.01303546970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.1250054197085, 
+                        "lng": -90.0157334302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "6127569031c92ca790a3acb49fbb65f3608f99ab", 
+            "name": "Town House Apartment Homes", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 417, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117354206854302787699/photos\">Town House Apartment Homes</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAinMkx877Ux53utY-vBV8pGEPX_Ll8wMF0rCuup8fyMnRrnz6HcdkTKb6Gp7LXnXhvdoo15aofJll7SFBN2aBYaEhAZrtMQtA1Lw1FYwoqfWAsHYQa0WIPyqrVLfSmr2iEhBqyrvW_Px5cZdWCbxHaQCoGhT4VbSFdQtoZxgOwlUpg15sJ_cvEQ", 
+                    "width": 418
+                }
+            ], 
+            "place_id": "ChIJ4VRc--F91YcRlgcDD9QTmqI", 
+            "rating": 3.5, 
+            "reference": "CmRSAAAAxidH7KruafAX7BxMmtY5k-R9PZmJPPWYFfrKYXwGjVxkMPBFFYvcLEIKwi1oXNcnA6zauMWKyKmD5GDu-gYNN1aPlZ0J5EfeSoq4XVnEDus_-SS6y_0Hzi0JXlqyP2ehEhAPiuwQEK4xhiDivS7lcoQJGhQj5AtA4PHUXS-BD2-Ab7PZYWYzZQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3333 Hacks Cross Rd, Memphis, TN 38125, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.057981, 
+                    "lng": -89.79409199999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0593201302915, 
+                        "lng": -89.7923150197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.0566221697085, 
+                        "lng": -89.7950129802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "cb232f774abc2effe0c5cffb49c3ba8e589ade9d", 
+            "name": "Fieldstone Apartments Memphis", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 2112, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114059054721626503240/photos\">Fieldstone Apartments Memphis</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAppyCGF-sSvvM7iKveEvahfA9u53Y6CQrYrYG4rUSOePu918002tURYIJ1hg5RDFArjB5JqdYB_1cIRLX-pdx-xQgrt3Pq_AympPJGhLf9ZevgFdxcad_obG0yUmlB9C3EhCfzMGJcqwxkSWijiY9jsMGGhR0rE0ssSjZq0g6N5t4syOgpvz_ug", 
+                    "width": 2816
+                }
+            ], 
+            "place_id": "ChIJd0hpKhWaf4gR4F45BDmYKFg", 
+            "rating": 3.5, 
+            "reference": "CmRRAAAAxwgq4Hp6FPpf7mnBFYqS0n_z-7ExuZSAXpl_QI_Ss-HkLPx3H_BbOdLaDa6_hDIPUZGQ7BVL61EW7qUG7BtwQCVwFFNnAHwoWItDCW-oi_QyI8FUU5NIcP548PXb0n12EhApFQAwdcZJKw0AiIk0xz2UGhRU5aO_p_DtJzH1M4_YAAdpKuRgJQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "646 Whispering Oak, Southaven, MS 38671, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 34.935622, 
+                    "lng": -90.001415
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.9367460802915, 
+                        "lng": -90.0000636197085
+                    }, 
+                    "southwest": {
+                        "lat": 34.9340481197085, 
+                        "lng": -90.0027615802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "66f118c289ca188587ce3d06f169538b73de3e85", 
+            "name": "Oak Hollow Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 346, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110680073801362227576/photos\">Oak Hollow Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAA_4PwuPAfEnbP0j4DOsrK2uw3mXlbwENYpTHo-dkHFkc9wteKMkZRknP5gWJzh0ubBhWjg7SsZDnBDRSenSLUmRFNy1ryWeA-rsaeg-5O4Xq1_fVgkQwtr1_1baz_h1UNEhBG_J2uPj2KDl8cilgmGvuvGhQuPDLNMZBC_FqWPiRxpUJ2QetBFw", 
+                    "width": 346
+                }
+            ], 
+            "place_id": "ChIJRwwxN-Jh1YcRtaZAHCqjqUs", 
+            "rating": 1.8, 
+            "reference": "CmRRAAAAY0b-yw8uGTNVu-rJ2UiT4HmsQ0JsOwl3GwUICw7hgqJY3EV8k8xY5diGNJ2SNuO43diMlkaVMEFI0l12XF2aUhWehmhwA6iUTBbOtKMyPamus5e-hiYTznKHU2VqintbEhAOG9VNAZWwvkY8frEcmXg5GhRwu9QqpLjBubJpSDYShiZsC5JHgQ", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "324 Block St, Marion, AR 72364, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.20523379999999, 
+                    "lng": -90.2020486
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.2065430802915, 
+                        "lng": -90.20086806970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.2038451197085, 
+                        "lng": -90.2035660302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "a04b0540770b04c38d49a25133bae91b77d4471f", 
+            "name": "Four Seasons Apartments", 
+            "place_id": "ChIJ3av6EyN21YcRORW-oQA7RbA", 
+            "reference": "CmRSAAAAkuDXyrSkz4CfaASlqOTDPGYwzNCToZYp4T598OtUcb8prHaBTyIjYgGy_1FJ7fZ48t1KR2dsD6iur9-E5QPSXcoj1EblWHMxQScxfjYaFlRwkFcI-1Oo3MRMRJk7xDmHEhCQIOheOGEcPjahRGunlgMBGhSyQIclXuyxAa3xNkO4TDmM4z3t8w", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "501 S Avalon St, West Memphis, AR 72301, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1404213, 
+                    "lng": -90.19409809999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1417691302915, 
+                        "lng": -90.1924908697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.1390711697085, 
+                        "lng": -90.1951888302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "91eba5cea2434ea9190524aa4f2429fa3f9af534", 
+            "name": "Westwood Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "place_id": "ChIJf1Nkr9t21YcRDpN23y7uzq4", 
+            "rating": 2.8, 
+            "reference": "CmRSAAAAVLCCzOo9rX1BhIbEc8VeTjz8GvwlmwJJA8saaUFIBnrrZeo7oQZM7RWn1CJuOspgSXjeyLQVlP73-27nRQZZ5qYhg6gNnEG-7k5XeeKJuTY_A0koqCKkg79WF29SCNF4EhBgwifjOK-6HLEa_UsSd12zGhR7oyS5Uzkq07tW2jptuKqC_PYB4g", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "7542 Legacy Dr, Memphis, TN 38119, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0602294, 
+                    "lng": -89.8113196
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0615828302915, 
+                        "lng": -89.80997026970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.0588848697085, 
+                        "lng": -89.8126682302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "b0d467bca90b39064ea7dbb63aa46fbe849c3cf4", 
+            "name": "The Wyndham", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 4038, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111013957126957302883/photos\">Tracie Rhea</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAxrrnA81lzcqHSRcgVu2D-pj0JlD9KPYUgEoZz-34rZkzSozJWl4ojLnE4RcrQUQ21MActhDqbQRipFcOmJegPFLqiYjHXJyrC5WimBvIlMihrptBAAMvrsX8tb7O_APeEhAr7CyUjJA3QQepENgmESr6GhTa0i1GhTgvczEMhedxaBxLRU7oWw", 
+                    "width": 6421
+                }
+            ], 
+            "place_id": "ChIJt8b2-l-af4gR6PjMv8dFHk8", 
+            "rating": 3, 
+            "reference": "CmRRAAAAtIQfsKG9tusXDINMW7KU5_-w2LA6Gf-S-qy9WGwcIrUY3NWeMCPOcwPBSj8dOIGJit0MUTm7YvTGiHpMHlbos-N7Ll_mxpul20zL1ApY4OlS61D3ClWhMPzbwQqjc1SNEhAd7SHiOHDF6NUsuUd2pCOBGhRrtO5vvKzAGh6JYe0Vh3mjHj0SoQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "2940 Hickory Hill Rd, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0684703, 
+                    "lng": -89.8634716
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0698192802915, 
+                        "lng": -89.86212261970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.0671213197085, 
+                        "lng": -89.8648205802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "49dd363637bc79a8dbe1d220f3c64583ba382a4a", 
+            "name": "The Enclave Apartment Homes", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 724, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116553122640506075821/photos\">The Enclave Apartment Homes</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAZnWnCC-A0JxUDynHir_oc_Aj_2WsGEQ-wciYmBj7vFu-gz1XV4t_ysMA-MQUhzUzCxkjfwXV7NEB84Oy26oo4il9yT2aPnUYVkYwvXhZfQTwPOr-ytT5AU7w8fr34JtxEhDCXX5vr-_t5khk9rcJ6dE5GhS-_qOLb8ViZsXMjRPKpp9GmLA6aw", 
+                    "width": 725
+                }
+            ], 
+            "place_id": "ChIJG2apnDuFf4gRZbJcA5XrCs8", 
+            "rating": 2.7, 
+            "reference": "CmRSAAAApcZhXDluDN4FUeiIK_cmu4Q5vvZOGuzYkWy5EaMn4O8TvNlv9NyFLoEXXA2l-EmTJavn49QVVFzRAriFeVyAjKiQqBXvQXvBQu-xPqNEcFRT8bIfIM2Nzz2KpUJzTOcPEhBRcyAet4XTgnKrLARs7qtOGhRmd8wU6G3EkHRl1Ck3wUr7O1wkGg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3151 Ashwood St, Memphis, TN 38118, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0625136, 
+                    "lng": -89.9297094
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0633402302915, 
+                        "lng": -89.92760415000001
+                    }, 
+                    "southwest": {
+                        "lat": 35.0606422697085, 
+                        "lng": -89.93041114999998
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "a03d218e9522e2358ec8095ea75b431917521f78", 
+            "name": "Camelot Manor Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 2592, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102325812810284932220/photos\">Rosetta Jones</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAANXgS3Xq-SKwq7aeYCrB5E_qvxNbq9cG3Fo3rybrkxcGgtUkQ2FG6qMRReAZwf-NfvUc7FPG9Hd7fr59NhnLsb3SizqofmJNqQWbwa6u8TQb5zqNv2-sdqeF4hoa7Ko4bEhCnOZOZg2K1D7oQ_QSzW2PuGhRb_sfl8MqXdpeSa0slQFbGoDO1bg", 
+                    "width": 1944
+                }
+            ], 
+            "place_id": "ChIJizXg4nSGf4gRJBLRTmwdCJc", 
+            "rating": 1.8, 
+            "reference": "CmRSAAAAEUfkIYY964jHGE6H3U3A_fsQ3sDBf6b7ef4m8Ub9sbZcN25m0PIwfRrbqR7URkHqUIYJXL-rWLo4NHr3TV_6EsOM2Tg1sO0NuZYBvJbg3QuUAqWJth56nOQMfbqufJOLEhDMVMPB1A9kEThsc8KwpmA3GhTcZ_JfxyaXDxSZEI0aCvKEjICwqA", 
+            "types": [
+                "place_of_worship", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "731 Martin Luther King Jr Dr, Holly Springs, MS 38635, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 34.78797520000001, 
+                    "lng": -89.466923
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.7893383302915, 
+                        "lng": -89.4655640197085
+                    }, 
+                    "southwest": {
+                        "lat": 34.78664036970851, 
+                        "lng": -89.4682619802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "967acd0ef6850b19db90a33ed8173bb5c4bd2469", 
+            "name": "Hollyview Place", 
+            "place_id": "ChIJufKAl-XLf4gREr3khRYv6zg", 
+            "reference": "CmRRAAAAeRXV7H-tSWccyVfaXhPTD2inDmsaLEzBYgRENkWvccZeHQkFEQg7nme9juQJIVRhTFXqCy2_DYscv5qhFJfs2DYE96sVyyKiFYO5nRay1Ie37jZJWg6W4jHJEl0mauDiEhAEtyzeB6C1HZX6efo9HS0LGhRvDiTy1gx9OcVPJBxafO2Zxw0llA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "1401 Doug Baker Blvd, Birmingham, AL 35242, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 33.4111287, 
+                    "lng": -86.6717659
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.4124551802915, 
+                        "lng": -86.6704190697085
+                    }, 
+                    "southwest": {
+                        "lat": 33.4097572197085, 
+                        "lng": -86.67311703029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "9613449114bfc3a139e8b71f5d6e557129d7125a", 
+            "name": "ForRent.Com", 
+            "place_id": "ChIJa462Rg4WiYgRsW_mVaq-AuU", 
+            "reference": "CmRSAAAAJaY6dmsuzNQqIdC27g38gFhhygKnvc42HvAmHEzC75oQDEbj3CvuWUEQA4YHeSAs2-oaR_WHNInTNFA8E6-l_WGRlTZp26SuYEBClwC-He-PvTpiea6PaxdtK-ncP-qVEhCGOzp-OAmKewSdlLaHB14lGhRY3rZ4tr4CGsQoU88YjPnYxw3YkQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "132 Marginal Way, Portland, ME 04101, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 43.66302160000001, 
+                    "lng": -70.26402279999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 43.66426663029151, 
+                        "lng": -70.2625438697085
+                    }, 
+                    "southwest": {
+                        "lat": 43.66156866970851, 
+                        "lng": -70.2652418302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "09a21dae6c2cf18ed9acbeed1e81adf223c3555b", 
+            "name": "Bayside Village Apartments", 
+            "opening_hours": {
+                "open_now": false, 
+                "weekday_text": []
+            }, 
+            "place_id": "ChIJKcsC9W2cskwRcs-bwNCZ6AA", 
+            "rating": 3.1, 
+            "reference": "ClRQAAAAlSv6SUQs6cvW9gV5I80D6dcDP9RPoT8o2GnHZRSI5t3_O3ShDd-l5vgi2D_xk9iUHmz1ZfovybKTLkyDYRZJGnxVdpSFz0jCbkgZnA6_ixESEDQdZnPcd_3WfYA5_fJDR0oaFBPohkLofxSnictSN5nMoa12xD5O", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "15615 N 35th Ave, Phoenix, AZ 85053, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 33.62737799999999, 
+                    "lng": -112.132537
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.62872083029149, 
+                        "lng": -112.1317494197085
+                    }, 
+                    "southwest": {
+                        "lat": 33.62602286970849, 
+                        "lng": -112.1344473802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "f4de4afdf3a00d4bd8b22ec42618044d66225d95", 
+            "name": "West 35th Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 666, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114115599613084123241/photos\">West 35th Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAASyaiXizjLe4fV90oHOn7wOi28zMuEInFg4OFgGxZKcGyxzoYuiriupUIbDXwEHbTZXTvvwEx22hsKBQkhS_oGqyojNqWFYpkIFMKQkplpBWRqgpxvew3WhwJxRc0Ye8JEhCV74RzxUvHORdmvdNqmN6pGhQnWqE0ZPYpTiW46ne8nJGcBWqrkg", 
+                    "width": 667
+                }
+            ], 
+            "place_id": "ChIJv9dHi8huK4cRGHZ75u83mek", 
+            "rating": 3.7, 
+            "reference": "CmRSAAAA7bdjNebaWbpsZuWq8q9HNovq0vClZnr_p0TF2qF0GE0ILuI0zgW0d4F5kVjlf4PYLlR9bPKkqU4g6JIOW_GWOi4H1qSEzL0jl-fhu-gzBVYT8NKnQEMUsF79eX9xSErnEhDxUjyMZUO2z4K6ZOHjjgSBGhR8BwWQ6E8qel51g1REuAQh_Y5YTg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }
+    ], 
+    "status": "OK"
+}

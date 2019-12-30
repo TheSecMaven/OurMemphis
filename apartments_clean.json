@@ -1,0 +1,1930 @@
+{
+    "2880 Beverly Hills Rd, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.0421336, 
+            "name": "Jefferson Place", 
+            "lats": 35.1452626, 
+            "address": "560 S Jefferson Pl, Memphis, TN 38105, United States"
+        }
+    }, 
+    "1059 Florida St, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -90.0171977, 
+            "name": "Warren Apartments", 
+            "lats": 35.07288129999999, 
+            "address": "1344 Clementine Rd, Memphis, TN 38106, United States"
+        }
+    }, 
+    "1415 Breedlove St, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -90.021644, 
+            "name": "Chicago Park Place Apartments", 
+            "lats": 35.178659, 
+            "address": "1415 Breedlove St, Memphis, TN 38107, United States"
+        }
+    }, 
+    "4045 Summer Ave, Memphis, TN 38122, United States": {
+        "info": {
+            "longs": -90.06103499999999, 
+            "name": "Crescent Bluff Apartments", 
+            "lats": 35.125247, 
+            "address": "25 E Virginia Ave, Memphis, TN 38106, United States"
+        }
+    }, 
+    "100 Riverset Ln, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.9885903, 
+            "name": "University Gardens Manor", 
+            "lats": 35.1645194, 
+            "address": "2059 Vollintine Ave, Memphis, TN 38107, United States"
+        }
+    }, 
+    "3151 Ashwood St, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -89.79409199999999, 
+            "name": "Fieldstone Apartments Memphis", 
+            "lats": 35.057981, 
+            "address": "3333 Hacks Cross Rd, Memphis, TN 38125, United States"
+        }
+    }, 
+    "203 E Red Oak Dr, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -90.025038, 
+            "name": "Memphis Towers", 
+            "lats": 35.14069199999999, 
+            "address": "1081 Court Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "91 S 2nd St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.8678679, 
+            "name": "Hickory Pointe Apartments", 
+            "lats": 35.0727678, 
+            "address": "2755 Hickory Point Ln, Memphis, TN 38115, United States"
+        }
+    }, 
+    "Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -89.977987, 
+            "name": "Woodcrest Apartments", 
+            "lats": 35.139995, 
+            "address": "170 N Hollywood St, Memphis, TN 38112, United States"
+        }
+    }, 
+    "7542 Legacy Dr, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.8634716, 
+            "name": "The Enclave Apartment Homes", 
+            "lats": 35.0684703, 
+            "address": "2940 Hickory Hill Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "282 N 3rd St, Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -90.04607229999999, 
+            "name": "Uptown Square Apartments", 
+            "lats": 35.15093259999999, 
+            "address": "282 N 3rd St, Memphis, TN 38105, United States"
+        }
+    }, 
+    "5545 Murray Ave #206, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.87519999999999, 
+            "name": "River Trace Apartments", 
+            "lats": 35.185464, 
+            "address": "2165 E River Trace Dr, Memphis, TN 38134, United States"
+        }
+    }, 
+    "1305 Turkey Run Ln, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.87929969999999, 
+            "name": "Colonial Apartments", 
+            "lats": 35.1062419, 
+            "address": "5480 Poplar Ave, Memphis, TN 38119, United States"
+        }
+    }, 
+    "3463 Wingood Cir, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -89.87082339999999, 
+            "name": "Plum Tree Apartments", 
+            "lats": 35.0506566, 
+            "address": "3595 Pine Tree Ct, Memphis, TN 38115, United States"
+        }
+    }, 
+    "6296 Lake View Trail, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.05617409999999, 
+            "name": "Grand Island Apartments", 
+            "lats": 35.1549358, 
+            "address": "300 Island Dr, Memphis, TN 38103, United States"
+        }
+    }, 
+    "300 Island Dr, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.012849, 
+            "name": "Whitney Manor Apartments", 
+            "lats": 35.2094241, 
+            "address": "3071 St Charles Dr #3, Memphis, TN 38127, United States"
+        }
+    }, 
+    "1633 Pennsylvania St, Memphis, TN 38109, United States": {
+        "info": {
+            "longs": -90.05315, 
+            "name": "Radio Center Flats", 
+            "lats": 35.143245, 
+            "address": "66 S Main St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3108 New Allen Rd, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.00889330000001, 
+            "name": "Cane Creek Apartments", 
+            "lats": 35.1043678, 
+            "address": "1528 Ragan St, Memphis, TN 38106, United States"
+        }
+    }, 
+    "138 St Paul Ave, Memphis, TN 38126, United States": {
+        "info": {
+            "longs": -90.01439099999999, 
+            "name": "Town House Apartment Homes", 
+            "lats": 35.1261857, 
+            "address": "1437 Central Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "15615 N 35th Ave, Phoenix, AZ 85053, United States": {
+        "info": {
+            "longs": -90.0255569, 
+            "name": "Park Tower Apartments", 
+            "lats": 35.1415514, 
+            "address": "57 N Somerville St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "2780 Madison Ave, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -90.03356389999999, 
+            "name": "Blair Tower Apartments", 
+            "lats": 35.1449133, 
+            "address": "810 Washington Ave, Memphis, TN 38105, United States"
+        }
+    }, 
+    "2059 Vollintine Ave, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -90.05505699999999, 
+            "name": "Arbors Harbor Town", 
+            "lats": 35.159804, 
+            "address": "671 Harbor Edge Dr, Memphis, TN 38103, United States"
+        }
+    }, 
+    "6653 N Quail Hollow Rd, Memphis, TN 38120, United States": {
+        "info": {
+            "longs": -90.0140655, 
+            "name": "Parcels at Concourse", 
+            "lats": 35.152043, 
+            "address": "1350 Concourse Avenue, Memphis, TN 38104, United States"
+        }
+    }, 
+    "3860 Eaglewood Dr, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.952196, 
+            "name": "Hunters Ridge Apartment", 
+            "lats": 35.2104113, 
+            "address": "3108 New Allen Rd, Memphis, TN 38128, United States"
+        }
+    }, 
+    "3169 Kirby Pkwy, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.0427881, 
+            "name": "Fairways Apartments", 
+            "lats": 35.0067997, 
+            "address": "630 Tulane Cove S, Memphis, TN 38109, United States"
+        }
+    }, 
+    "501 S Avalon St, West Memphis, AR 72301, United States": {
+        "info": {
+            "longs": -90.0136993, 
+            "name": "Breezy Point Apartments", 
+            "lats": 35.20282460000001, 
+            "address": "2801 Raja Dr, Memphis, TN 38127, United States"
+        }
+    }, 
+    "198 N Pauline St, Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -90.02806620000001, 
+            "name": "Legends Park", 
+            "lats": 35.1466236, 
+            "address": "198 N Pauline St, Memphis, TN 38105, United States"
+        }
+    }, 
+    "6355 Briar Patch Ln, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.05505699999999, 
+            "name": "Arbors Harbor Town", 
+            "lats": 35.159804, 
+            "address": "671 Harbor Edge Dr, Memphis, TN 38103, United States"
+        }
+    }, 
+    "130 N Merton St, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -89.95425619999999, 
+            "name": "Campus Heights Apartments", 
+            "lats": 35.1151328, 
+            "address": "641, Southern Oaks Pl, Memphis, TN 38111, United States"
+        }
+    }, 
+    "680 Woodstone Cir, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -90.012148, 
+            "name": "Kimbrough Towers - Lennox Midtown", 
+            "lats": 35.13591700000001, 
+            "address": "172 Kimbrough Pl, Memphis, TN 38104, United States"
+        }
+    }, 
+    "671 Harbor Edge Dr, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.020083, 
+            "name": "Midtown Rooms", 
+            "lats": 35.142683, 
+            "address": "121 N Montgomery St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "646 Whispering Oak, Southaven, MS 38671, United States": {
+        "info": {
+            "longs": -89.78597099999999, 
+            "name": "Lincoln On the Green", 
+            "lats": 35.051934, 
+            "address": "8345 Championship Dr, Memphis, TN 38125, United States"
+        }
+    }, 
+    "1350 S Faronia Square, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -90.0113763, 
+            "name": "Riverbend Apartments", 
+            "lats": 35.2341293, 
+            "address": "3995 N Watkins St, Memphis, TN 38127, United States"
+        }
+    }, 
+    "Countryside Apartments, Country Manor Dr, Memphis, TN 38133, United States": {
+        "info": {
+            "longs": -90.02778339999999, 
+            "name": "Quimby Plaza", 
+            "lats": 35.1456968, 
+            "address": "198 N Pauline St, Memphis, TN 38105, United States"
+        }
+    }, 
+    "67 Madison Ave, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.012849, 
+            "name": "Whitney Manor Apartments", 
+            "lats": 35.2094241, 
+            "address": "3071 St Charles Dr #3, Memphis, TN 38127, United States"
+        }
+    }, 
+    "177 N Highland St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.89224019999999, 
+            "name": "Summereast Apartments", 
+            "lats": 35.1531882, 
+            "address": "810 Bartlett Rd, Memphis, TN 38122, United States"
+        }
+    }, 
+    "170 N Hollywood St, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -89.83239309999999, 
+            "name": "Countryside North Apartments", 
+            "lats": 35.1960296, 
+            "address": "Countryside Apartments, Country Manor Dr, Memphis, TN 38133, United States"
+        }
+    }, 
+    "385 N Graham St, Memphis, TN 38117, United States": {
+        "info": {
+            "longs": -90.01439099999999, 
+            "name": "Town House Apartment Homes", 
+            "lats": 35.1261857, 
+            "address": "1437 Central Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "3647 Outland Rd, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -90.1931583, 
+            "name": "Avondale Apartments", 
+            "lats": 35.1653908, 
+            "address": "1701 N Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "122 Gayoso Ave, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.897104, 
+            "name": "The Summit Apartments", 
+            "lats": 35.201901, 
+            "address": "4981 Hidden Lake Dr, Memphis, TN 38128, United States"
+        }
+    }, 
+    "70 S 4th St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.019834, 
+            "name": "Dunlap Apartments", 
+            "lats": 35.139631, 
+            "address": "1236 Madison Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "6277 Lake Arbor Dr, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.78597099999999, 
+            "name": "Lincoln On the Green", 
+            "lats": 35.051934, 
+            "address": "8345 Championship Dr, Memphis, TN 38125, United States"
+        }
+    }, 
+    "1747 Morlye St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.839514, 
+            "name": "Kirby Station Apartments", 
+            "lats": 35.103293, 
+            "address": "6653 N Quail Hollow Rd, Memphis, TN 38120, United States"
+        }
+    }, 
+    "5900 Cedar Forrest Dr, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.98496, 
+            "name": "Whispering Pines Apartments", 
+            "lats": 35.085417, 
+            "address": "2312 Dwight Rd, Memphis, TN 38114, United States"
+        }
+    }, 
+    "7833 Stellar Ln, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.9708285, 
+            "name": "El Dorado Apartments", 
+            "lats": 35.0798668, 
+            "address": "2743 Ketchum Rd, Memphis, TN 38114, United States"
+        }
+    }, 
+    "66 Prescott St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.947583, 
+            "name": "Spring Court", 
+            "lats": 35.11442789999999, 
+            "address": "3439 Southern Ave, Memphis, TN 38111, United States"
+        }
+    }, 
+    "2312 Dwight Rd, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.0061783, 
+            "name": "New Horizon Apartments", 
+            "lats": 35.0506, 
+            "address": "3619 Kingsgate Dr, Memphis, TN 38116, United States"
+        }
+    }, 
+    "1401 Doug Baker Blvd, Birmingham, AL 35242, United States": {
+        "info": {
+            "longs": -89.9297094, 
+            "name": "Camelot Manor Apartments", 
+            "lats": 35.0625136, 
+            "address": "3151 Ashwood St, Memphis, TN 38118, United States"
+        }
+    }, 
+    "3071 St Charles Dr #3, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -90.0294449, 
+            "name": "Woodglen Village Apartments", 
+            "lats": 35.2028219, 
+            "address": "2820 Hibiscus Ln, Memphis, TN 38127, United States"
+        }
+    }, 
+    "2154 Meadow Glade Ln, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -90.0031739, 
+            "name": "Lincoln Apartments", 
+            "lats": 35.171358, 
+            "address": "1205 Marble Ave, Memphis, TN 38108, United States"
+        }
+    }, 
+    "2238 Central Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.8657259, 
+            "name": "Bella Vista Apartments", 
+            "lats": 35.0593884, 
+            "address": "5958 Hickory Hill Square, Memphis, TN 38115, United States"
+        }
+    }, 
+    "1437 Central Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.87707999999999, 
+            "name": "ForRent.com", 
+            "lats": 35.102421, 
+            "address": "5545 Murray Ave #206, Memphis, TN 38119, United States"
+        }
+    }, 
+    "6 S McLean Blvd, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.9168547, 
+            "name": "Eden Pointe", 
+            "lats": 35.0611562, 
+            "address": "3187 E Danville Cir, Memphis, TN 38118, United States"
+        }
+    }, 
+    "5958 Hickory Hill Square, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.0074099, 
+            "name": "Galloway Gardens", 
+            "lats": 35.14956400000001, 
+            "address": "1571 Galloway Ave, Memphis, TN 38112, United States"
+        }
+    }, 
+    "3187 E Danville Cir, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -89.9977268, 
+            "name": "Graceland Farm Apartments", 
+            "lats": 35.0361812, 
+            "address": "1984 E Bonnie Dr, Memphis, TN 38116, United States"
+        }
+    }, 
+    "3333 Hacks Cross Rd, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.9920736, 
+            "name": "Southcrest Lake Apartments", 
+            "lats": 34.9736307, 
+            "address": "101 Veranda Blvd, Southaven, MS 38671, United States"
+        }
+    }, 
+    "57 N Somerville St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.0255569, 
+            "name": "Park Tower Apartments", 
+            "lats": 35.1415514, 
+            "address": "57 N Somerville St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "359 E McLemore Ave, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.94089609999999, 
+            "name": "Southernwoods", 
+            "lats": 35.1152212, 
+            "address": "592 Patterson St # 1, Memphis, TN 38111, United States"
+        }
+    }, 
+    "600 S Somerville St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.01635999999999, 
+            "name": "The Broadmoor Apartments", 
+            "lats": 35.13400800000001, 
+            "address": "290 S Cleveland St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "5995 Waterstone Oak Way, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.862481, 
+            "name": "Autumn Ridge Apartments", 
+            "lats": 35.0427923, 
+            "address": "3888 Autumn Ridge Ct, Memphis, TN 38115, United States"
+        }
+    }, 
+    "1850 N Avalon St # 131, West Memphis, AR 72301, United States": {
+        "info": {
+            "longs": -90.02843999999999, 
+            "name": "Medical Center Tower Apartments", 
+            "lats": 35.1393878, 
+            "address": "23 S Pauline St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "2894 Putting Green Cove, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.89627399999999, 
+            "name": "Mendonwood Apartments", 
+            "lats": 35.110228, 
+            "address": "777 Mt Moriah Rd # 13, Memphis, TN 38117, United States"
+        }
+    }, 
+    "3315 Ridgeway Rd, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.01439099999999, 
+            "name": "Town House Apartment Homes", 
+            "lats": 35.1261857, 
+            "address": "1437 Central Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "40 S Morrison St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.9984379, 
+            "name": "Pecan Park", 
+            "lats": 35.15309599999999, 
+            "address": "1818 North Pkwy, Memphis, TN 38112, United States"
+        }
+    }, 
+    "3888 Autumn Ridge Ct, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.8022009, 
+            "name": "Park's Edge At Shelby Farms Apartments", 
+            "lats": 35.13831799999999, 
+            "address": "536 Shelby Grove Dr, Cordova, TN 38018, United States"
+        }
+    }, 
+    "1818 North Pkwy, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -90.0539477, 
+            "name": "Metro 67", 
+            "lats": 35.1451492, 
+            "address": "67 Madison Ave, Memphis, TN 38103, United States"
+        }
+    }, 
+    "2881 Lamar Ave, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -89.466923, 
+            "name": "Hollyview Place", 
+            "lats": 34.78797520000001, 
+            "address": "731 Martin Luther King Jr Dr, Holly Springs, MS 38635, United States"
+        }
+    }, 
+    "444 Island Dr #101, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.8451674, 
+            "name": "Country Oaks Apartments", 
+            "lats": 35.0440716, 
+            "address": "6555 N Country Oaks Cir, Memphis, TN 38115, United States"
+        }
+    }, 
+    "3443 Spottswood Ave, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.98496, 
+            "name": "Whispering Pines Apartments", 
+            "lats": 35.085417, 
+            "address": "2312 Dwight Rd, Memphis, TN 38114, United States"
+        }
+    }, 
+    "440 S Lauderdale St, Memphis, TN 38126, United States": {
+        "info": {
+            "longs": -90.0031739, 
+            "name": "Lincoln Apartments", 
+            "lats": 35.171358, 
+            "address": "1205 Marble Ave, Memphis, TN 38108, United States"
+        }
+    }, 
+    "6555 N Country Oaks Cir, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.0542473, 
+            "name": "Riverset Apartments", 
+            "lats": 35.17382949999999, 
+            "address": "100 Riverset Ln, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3130 S Mendenhall Rd, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.85137879999999, 
+            "name": "Briar Club", 
+            "lats": 35.0521474, 
+            "address": "6355 Briar Patch Ln, Memphis, TN 38115, United States"
+        }
+    }, 
+    "281 W Johnson Cir, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -90.0014257, 
+            "name": "Canderra Park Apartments", 
+            "lats": 35.0492437, 
+            "address": "3644 Duchess Dr N, Memphis, TN 38116, United States"
+        }
+    }, 
+    "4500 Stone Gate Dr, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -89.9396282, 
+            "name": "Lantern Square Apartments", 
+            "lats": 35.1986884, 
+            "address": "2690 Drury Way Ln, Memphis, TN 38128, United States"
+        }
+    }, 
+    "5001 Airways Blvd, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -90.0583773, 
+            "name": "Valley Forge Apartments", 
+            "lats": 35.0489481, 
+            "address": "176 Hillview Ave, Memphis, TN 38109, United States"
+        }
+    }, 
+    "25 E Virginia Ave, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.959178, 
+            "name": "Commodore Condominiums", 
+            "lats": 35.134451, 
+            "address": "3080 Walnut Grove Rd, Memphis, TN 38111, United States"
+        }
+    }, 
+    "1471 Genesis Circle, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.99389099999999, 
+            "name": "The Crossroads Apartments -- Midtown Place", 
+            "lats": 35.135568, 
+            "address": "40 S Morrison St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "175 Stonewall St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.04754799999999, 
+            "name": "Fielder Square", 
+            "lats": 35.14218399999999, 
+            "address": "70 S 4th St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "23 S Pauline St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.0562794, 
+            "name": "Harbor Island Apartments", 
+            "lats": 35.1571319, 
+            "address": "444 Island Dr #101, Memphis, TN 38103, United States"
+        }
+    }, 
+    "205 Pasadena Pl, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.87707999999999, 
+            "name": "ForRent.com", 
+            "lats": 35.102421, 
+            "address": "5545 Murray Ave #206, Memphis, TN 38119, United States"
+        }
+    }, 
+    "3870 Weaver Meadows Ln, Memphis, TN 38109, United States": {
+        "info": {
+            "longs": -89.8531934, 
+            "name": "Arbors Of Hickory Ridge", 
+            "lats": 35.0614566, 
+            "address": "6296 Lake View Trail, Memphis, TN 38115, United States"
+        }
+    }, 
+    "536 Shelby Grove Dr, Cordova, TN 38018, United States": {
+        "info": {
+            "longs": -89.78919830000001, 
+            "name": "The Registry at Wolfchase", 
+            "lats": 35.1755451, 
+            "address": "1810 W Wolfchase Cir, Cordova, TN 38016, United States"
+        }
+    }, 
+    "204 Windover Rd, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -90.2020486, 
+            "name": "Four Seasons Apartments", 
+            "lats": 35.20523379999999, 
+            "address": "324 Block St, Marion, AR 72364, United States"
+        }
+    }, 
+    "66 S Main St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.97610399999999, 
+            "name": "Alero Apartments", 
+            "lats": 35.138717, 
+            "address": "130 N Merton St, Memphis, TN 38112, United States"
+        }
+    }, 
+    "3131 Madewell St, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -89.855622, 
+            "name": "The Woods at Ridgeway", 
+            "lats": 35.06269760000001, 
+            "address": "6277 Lake Arbor Dr, Memphis, TN 38115, United States"
+        }
+    }, 
+    "1920 Florida St, Memphis, TN 38109, United States": {
+        "info": {
+            "longs": -90.03255399999999, 
+            "name": "Le Chateau On Kerr", 
+            "lats": 35.10706169999999, 
+            "address": "869-, 899 Kerr Ave, Memphis, TN 38106, United States"
+        }
+    }, 
+    "2639 Central Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.0017701, 
+            "name": "Rosecrest", 
+            "lats": 35.1363152, 
+            "address": "45 S Idlewild St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "5646 Glade View Dr, Memphis, TN 38120, United States": {
+        "info": {
+            "longs": -89.82324299999999, 
+            "name": "Riverdale Apartments", 
+            "lats": 35.0629648, 
+            "address": "3295 Riverdale Rd, Memphis, TN 38119, United States"
+        }
+    }, 
+    "3969 Willow Cove, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -90.1931583, 
+            "name": "Avondale Apartments", 
+            "lats": 35.1653908, 
+            "address": "1701 N Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "2295 Candlewyck Cir, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.195072, 
+            "name": "Belvedere Apartments", 
+            "lats": 35.166715, 
+            "address": "1850 N Avalon St # 131, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "4733 Heather Row, Memphis, TN 38141, United States": {
+        "info": {
+            "longs": -90.0255569, 
+            "name": "Park Tower Apartments", 
+            "lats": 35.1415514, 
+            "address": "57 N Somerville St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1205 Marble Ave, Memphis, TN 38108, United States": {
+        "info": {
+            "longs": -89.9885903, 
+            "name": "University Gardens Manor", 
+            "lats": 35.1645194, 
+            "address": "2059 Vollintine Ave, Memphis, TN 38107, United States"
+        }
+    }, 
+    "2743 Ketchum Rd, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.2020486, 
+            "name": "Four Seasons Apartments", 
+            "lats": 35.20523379999999, 
+            "address": "324 Block St, Marion, AR 72364, United States"
+        }
+    }, 
+    "4537 Mill Stream Dr, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.98016, 
+            "name": "Willow Oaks Apartments", 
+            "lats": 35.0792237, 
+            "address": "2459 Ketchum Rd, Memphis, TN 38114, United States"
+        }
+    }, 
+    "6371 Winchester Rd, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.94536839999999, 
+            "name": "Stratum On Highland", 
+            "lats": 35.1176059, 
+            "address": "510 S Highland St, Memphis, TN 38111, United States"
+        }
+    }, 
+    "3822 Hickory Farms Dr, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.0074099, 
+            "name": "Galloway Gardens", 
+            "lats": 35.14956400000001, 
+            "address": "1571 Galloway Ave, Memphis, TN 38112, United States"
+        }
+    }, 
+    "810 Bartlett Rd, Memphis, TN 38122, United States": {
+        "info": {
+            "longs": -89.903626, 
+            "name": "Summer Grove Apartments", 
+            "lats": 35.147385, 
+            "address": "595 W Cadraca Drive, Apt. #15, Memphis, TN 38122, United States"
+        }
+    }, 
+    "3595 Pine Tree Ct, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.9968853, 
+            "name": "Bent Tree Apartments", 
+            "lats": 35.0547113, 
+            "address": "3471 W Briarpark Dr, Memphis, TN 38116, United States"
+        }
+    }, 
+    "7841 Garden Centennial, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.84361899999999, 
+            "name": "Arium Shelby Farms", 
+            "lats": 35.162555, 
+            "address": "1400 Greenbrook Pkwy, Memphis, TN 38134, United States"
+        }
+    }, 
+    "5760 Silvercreek Dr S, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -90.195072, 
+            "name": "Belvedere Apartments", 
+            "lats": 35.166715, 
+            "address": "1850 N Avalon St # 131, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "8345 Championship Dr, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.85156839999999, 
+            "name": "Stonebrook Apartments", 
+            "lats": 35.04791760000001, 
+            "address": "6371 Winchester Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "3815 N Advantage Way Dr, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.0517258, 
+            "name": "Court Square Center", 
+            "lats": 35.1469346, 
+            "address": "62 N Main St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "630 Tulane Cove S, Memphis, TN 38109, United States": {
+        "info": {
+            "longs": -90.0044595, 
+            "name": "Rolling Hills Apartments", 
+            "lats": 35.20213299999999, 
+            "address": "2818 Green Terrace Dr, Memphis, TN 38127, United States"
+        }
+    }, 
+    "595 W Cadraca Drive, Apt. #15, Memphis, TN 38122, United States": {
+        "info": {
+            "longs": -90.0043445, 
+            "name": "Apartment Selector", 
+            "lats": 35.1375049, 
+            "address": "1707 Lockett Pl, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1984 E Bonnie Dr, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.9457734, 
+            "name": "Peterson Amel C", 
+            "lats": 35.13645650000001, 
+            "address": "177 N Highland St, Memphis, TN 38111, United States"
+        }
+    }, 
+    "1300 Lynnfield Rd, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.89932739999999, 
+            "name": "Mendenhall Gardens Apartments", 
+            "lats": 35.1457438, 
+            "address": "543 N Mendenhall Rd, Memphis, TN 38117, United States"
+        }
+    }, 
+    "636 South Front Street #107, Memphis, TN, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.8712706, 
+            "name": "Bartlett Crossing Apartments", 
+            "lats": 35.1866599, 
+            "address": "5760 Silvercreek Dr S, Memphis, TN 38134, United States"
+        }
+    }, 
+    "1299 S Lauderdale St, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -90.01853539999999, 
+            "name": "Faronia Square", 
+            "lats": 35.0307917, 
+            "address": "1350 S Faronia Square, Memphis, TN 38116, United States"
+        }
+    }, 
+    "225 Arbor Commons Cir, Memphis, TN 38120, United States": {
+        "info": {
+            "longs": -89.86567699999999, 
+            "name": "Lynnfield Place", 
+            "lats": 35.09375600000001, 
+            "address": "5900 Cedar Forrest Dr, Memphis, TN 38119, United States"
+        }
+    }, 
+    "1236 Madison Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.02843999999999, 
+            "name": "Medical Center Tower Apartments", 
+            "lats": 35.1393878, 
+            "address": "23 S Pauline St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "324 Block St, Marion, AR 72364, United States": {
+        "info": {
+            "longs": -90.001415, 
+            "name": "Oak Hollow Apartments", 
+            "lats": 34.935622, 
+            "address": "646 Whispering Oak, Southaven, MS 38671, United States"
+        }
+    }, 
+    "3788 Links Dr S, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -90.0377649, 
+            "name": "Metropolitan Apartments", 
+            "lats": 35.157921, 
+            "address": "374 Mill Ave, Memphis, TN 38107, United States"
+        }
+    }, 
+    "2405 Alcy Manor Ln, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.011042, 
+            "name": "Almadura Apartments", 
+            "lats": 35.143098, 
+            "address": "175 Stonewall St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "3019 Tillman Cove, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -89.85156839999999, 
+            "name": "Stonebrook Apartments", 
+            "lats": 35.04791760000001, 
+            "address": "6371 Winchester Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "172 Kimbrough Pl, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.0017701, 
+            "name": "Rosecrest", 
+            "lats": 35.1363152, 
+            "address": "45 S Idlewild St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "8037 Waterford Cir, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.8113196, 
+            "name": "The Wyndham", 
+            "lats": 35.0602294, 
+            "address": "7542 Legacy Dr, Memphis, TN 38119, United States"
+        }
+    }, 
+    "400 S Highland St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.862481, 
+            "name": "Autumn Ridge Apartments", 
+            "lats": 35.0427923, 
+            "address": "3888 Autumn Ridge Ct, Memphis, TN 38115, United States"
+        }
+    }, 
+    "45 S Idlewild St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.0136993, 
+            "name": "Breezy Point Apartments", 
+            "lats": 35.20282460000001, 
+            "address": "2801 Raja Dr, Memphis, TN 38127, United States"
+        }
+    }, 
+    "2985 Walnut Grove Rd, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -90.01439099999999, 
+            "name": "Town House Apartment Homes", 
+            "lats": 35.1261857, 
+            "address": "1437 Central Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "906 N Avalon St, West Memphis, AR 72301, United States": {
+        "info": {
+            "longs": -89.9843523, 
+            "name": "Cypress Gardens Apartments", 
+            "lats": 35.169457, 
+            "address": "1215 Springdale St, Memphis, TN 38108, United States"
+        }
+    }, 
+    "1911 S Pkwy E, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.03356389999999, 
+            "name": "Blair Tower Apartments", 
+            "lats": 35.1449133, 
+            "address": "810 Washington Ave, Memphis, TN 38105, United States"
+        }
+    }, 
+    "939 Getwell Rd, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.8594571, 
+            "name": "Eton Square", 
+            "lats": 35.05852280000001, 
+            "address": "3315 Ridgeway Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "505 S Perkins Rd # 103, Memphis, TN 38117, United States": {
+        "info": {
+            "longs": -90.05617409999999, 
+            "name": "Grand Island Apartments", 
+            "lats": 35.1549358, 
+            "address": "300 Island Dr, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3314 N Woodlake Cir, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -90.0562794, 
+            "name": "Harbor Island Apartments", 
+            "lats": 35.1571319, 
+            "address": "444 Island Dr #101, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3644 Duchess Dr N, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -90.019834, 
+            "name": "Dunlap Apartments", 
+            "lats": 35.139631, 
+            "address": "1236 Madison Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "3505 S Mendenhall Rd, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.98016, 
+            "name": "Willow Oaks Apartments", 
+            "lats": 35.0792237, 
+            "address": "2459 Ketchum Rd, Memphis, TN 38114, United States"
+        }
+    }, 
+    "4 W Riverview Dr, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.00889330000001, 
+            "name": "Cane Creek Apartments", 
+            "lats": 35.1043678, 
+            "address": "1528 Ragan St, Memphis, TN 38106, United States"
+        }
+    }, 
+    "505 Tennessee St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.1936726, 
+            "name": "Meadows Apartments", 
+            "lats": 35.13340059999999, 
+            "address": "1101 S Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "176 Hillview Ave, Memphis, TN 38109, United States": {
+        "info": {
+            "longs": -89.914169, 
+            "name": "Stonegate Apartments", 
+            "lats": 35.2020897, 
+            "address": "4500 Stone Gate Dr, Memphis, TN 38128, United States"
+        }
+    }, 
+    "1400 Greenbrook Pkwy, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -89.87707999999999, 
+            "name": "ForRent.com", 
+            "lats": 35.102421, 
+            "address": "5545 Murray Ave #206, Memphis, TN 38119, United States"
+        }
+    }, 
+    "3707 Pershing Park Dr, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -89.9456426, 
+            "name": "Blair House Apartments", 
+            "lats": 35.1453527, 
+            "address": "491 N Highland St, Memphis, TN 38122, United States"
+        }
+    }, 
+    "3450 Fescue Ln, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.932401, 
+            "name": "Eastwood Park Apartments", 
+            "lats": 35.06780860000001, 
+            "address": "2973 Getwell Rd # 3, Memphis, TN 38118, United States"
+        }
+    }, 
+    "3357 W Winchester Pl, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.967834, 
+            "name": "Madison East Apartments at Chickasaw Gardens", 
+            "lats": 35.134212, 
+            "address": "2780 Madison Ave, Memphis, TN 38111, United States"
+        }
+    }, 
+    "1835 Sycamore View Rd, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -89.9920736, 
+            "name": "Southcrest Lake Apartments", 
+            "lats": 34.9736307, 
+            "address": "101 Veranda Blvd, Southaven, MS 38671, United States"
+        }
+    }, 
+    "4981 Hidden Lake Dr, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.0043445, 
+            "name": "Apartment Selector", 
+            "lats": 35.1375049, 
+            "address": "1707 Lockett Pl, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1103 Cooper St # 1, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -89.88483649999999, 
+            "name": "Park Estate", 
+            "lats": 35.105417, 
+            "address": "960 Catbird Ct, Memphis, TN 38119, United States"
+        }
+    }, 
+    "4800 Raleigh Lagrange Rd, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -89.8519639, 
+            "name": "Ridgeway Terrace Apartments", 
+            "lats": 35.054901, 
+            "address": "6332 Village Grove Dr, Memphis, TN 38115, United States"
+        }
+    }, 
+    "3619 Kingsgate Dr, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -90.02806620000001, 
+            "name": "Legends Park", 
+            "lats": 35.1466236, 
+            "address": "198 N Pauline St, Memphis, TN 38105, United States"
+        }
+    }, 
+    "3820 Mission Hills Dr, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.8586045, 
+            "name": "eagle ridge and raven ridge apts", 
+            "lats": 35.0431311, 
+            "address": "3860 Eaglewood Dr, Memphis, TN 38115, United States"
+        }
+    }, 
+    "5480 Poplar Ave, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -90.012148, 
+            "name": "Kimbrough Towers - Lennox Midtown", 
+            "lats": 35.13591700000001, 
+            "address": "172 Kimbrough Pl, Memphis, TN 38104, United States"
+        }
+    }, 
+    "306 S Cleveland St # 1, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.92995839999999, 
+            "name": "Willows Apartments", 
+            "lats": 35.0861495, 
+            "address": "3969 Willow Cove, Memphis, TN 38111, United States"
+        }
+    }, 
+    "6015 Summer Trace Dr, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -89.84361899999999, 
+            "name": "Arium Shelby Farms", 
+            "lats": 35.162555, 
+            "address": "1400 Greenbrook Pkwy, Memphis, TN 38134, United States"
+        }
+    }, 
+    "4845 Bontura Dr, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.01874769999999, 
+            "name": "Overton Park Apartments", 
+            "lats": 35.1503296, 
+            "address": "1214 Overton Park Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "2973 Getwell Rd # 3, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -89.86567699999999, 
+            "name": "Lynnfield Place", 
+            "lats": 35.09375600000001, 
+            "address": "5900 Cedar Forrest Dr, Memphis, TN 38119, United States"
+        }
+    }, 
+    "4168 The Pl St #3, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -89.85156839999999, 
+            "name": "Stonebrook Apartments", 
+            "lats": 35.04791760000001, 
+            "address": "6371 Winchester Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "648 N Main St #101, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -90.04567449999999, 
+            "name": "Riverbend Place Apartments", 
+            "lats": 35.16227059999999, 
+            "address": "648 N Main St #101, Memphis, TN 38107, United States"
+        }
+    }, 
+    "132 Marginal Way, Portland, ME 04101, United States": {
+        "info": {
+            "longs": -89.87519999999999, 
+            "name": "River Trace Apartments", 
+            "lats": 35.185464, 
+            "address": "2165 E River Trace Dr, Memphis, TN 38134, United States"
+        }
+    }, 
+    "491 N Highland St, Memphis, TN 38122, United States": {
+        "info": {
+            "longs": -90.001415, 
+            "name": "Oak Hollow Apartments", 
+            "lats": 34.935622, 
+            "address": "646 Whispering Oak, Southaven, MS 38671, United States"
+        }
+    }, 
+    "6860 Quince Rd, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.948065, 
+            "name": "Harmony Woods Apartments", 
+            "lats": 35.1609137, 
+            "address": "3384 Harmony Ct, Memphis, TN 38122, United States"
+        }
+    }, 
+    "2940 Hickory Hill Rd, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.8022009, 
+            "name": "Park's Edge At Shelby Farms Apartments", 
+            "lats": 35.13831799999999, 
+            "address": "536 Shelby Grove Dr, Cordova, TN 38018, United States"
+        }
+    }, 
+    "272 S Main St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.19409809999999, 
+            "name": "Westwood Apartments", 
+            "lats": 35.1404213, 
+            "address": "501 S Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "256 S Camilla St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.79509829999999, 
+            "name": "Waterford Place Apartments", 
+            "lats": 35.031522, 
+            "address": "8037 Waterford Cir, Memphis, TN 38125, United States"
+        }
+    }, 
+    "99 N Main St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.05251, 
+            "name": "The Renaissance Apartments", 
+            "lats": 35.147656, 
+            "address": "99 N Main St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3384 Harmony Ct, Memphis, TN 38122, United States": {
+        "info": {
+            "longs": -89.78919830000001, 
+            "name": "The Registry at Wolfchase", 
+            "lats": 35.1755451, 
+            "address": "1810 W Wolfchase Cir, Cordova, TN 38016, United States"
+        }
+    }, 
+    "3235 S Mendenhall Rd, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.89932739999999, 
+            "name": "Mendenhall Gardens Apartments", 
+            "lats": 35.1457438, 
+            "address": "543 N Mendenhall Rd, Memphis, TN 38117, United States"
+        }
+    }, 
+    "3439 Southern Ave, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.94464719999999, 
+            "name": "Camellia-Magnolia Gardens Inc", 
+            "lats": 35.125922, 
+            "address": "204 Windover Rd, Memphis, TN 38111, United States"
+        }
+    }, 
+    "1875 Keltner Cir, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.1937186, 
+            "name": "Forrest Park & Avalon Apartments", 
+            "lats": 35.1565226, 
+            "address": "906 N Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "1707 Lockett Pl, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.8113196, 
+            "name": "The Wyndham", 
+            "lats": 35.0602294, 
+            "address": "7542 Legacy Dr, Memphis, TN 38119, United States"
+        }
+    }, 
+    "1086 Nichols Blvd, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.0349866, 
+            "name": "Reserve Apartments Gate", 
+            "lats": 35.1516237, 
+            "address": "Memphis, TN 38105, United States"
+        }
+    }, 
+    "345 S Front St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.01874769999999, 
+            "name": "Overton Park Apartments", 
+            "lats": 35.1503296, 
+            "address": "1214 Overton Park Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "2755 Hickory Point Ln, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.9297094, 
+            "name": "Camelot Manor Apartments", 
+            "lats": 35.0625136, 
+            "address": "3151 Ashwood St, Memphis, TN 38118, United States"
+        }
+    }, 
+    "281 Bickford Ave, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -90.0389933, 
+            "name": "Bickford Square Apartments", 
+            "lats": 35.1645402, 
+            "address": "281 Bickford Ave, Memphis, TN 38107, United States"
+        }
+    }, 
+    "330 N Humphreys Blvd, Memphis, TN 38120, United States": {
+        "info": {
+            "longs": -89.8898701, 
+            "name": "Keller Williams Realty", 
+            "lats": 35.1063979, 
+            "address": "930 S White Station Rd, Memphis, TN 38117, United States"
+        }
+    }, 
+    "2250 S Pkwy E, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.0423412, 
+            "name": "Cleaborn Pointe at Heritage Landing", 
+            "lats": 35.1326521, 
+            "address": "440 S Lauderdale St, Memphis, TN 38126, United States"
+        }
+    }, 
+    "1081 Court Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.0044595, 
+            "name": "Rolling Hills Apartments", 
+            "lats": 35.20213299999999, 
+            "address": "2818 Green Terrace Dr, Memphis, TN 38127, United States"
+        }
+    }, 
+    "2165 E River Trace Dr, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -89.833219, 
+            "name": "Hedgerow Apartments", 
+            "lats": 35.0187116, 
+            "address": "4733 Heather Row, Memphis, TN 38141, United States"
+        }
+    }, 
+    "510 S Highland St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.767618, 
+            "name": "The Westbury Apartments", 
+            "lats": 35.0422419, 
+            "address": "3820 Mission Hills Dr, Memphis, TN 38125, United States"
+        }
+    }, 
+    "121 N Montgomery St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.9360963, 
+            "name": "Jamesbridge Apartments", 
+            "lats": 35.2013543, 
+            "address": "3815 N Advantage Way Dr, Memphis, TN 38128, United States"
+        }
+    }, 
+    "2818 Green Terrace Dr, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -89.9843523, 
+            "name": "Cypress Gardens Apartments", 
+            "lats": 35.169457, 
+            "address": "1215 Springdale St, Memphis, TN 38108, United States"
+        }
+    }, 
+    "1360 E Alcy Rd # 102, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -90.0614789, 
+            "name": "South Junction Apartments", 
+            "lats": 35.1280602, 
+            "address": "9 E Carolina Ave, Memphis, TN 38103, United States"
+        }
+    }, 
+    "9 N 2nd St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.0517543, 
+            "name": "The Exchange Guest Suites and Apartments", 
+            "lats": 35.1450269, 
+            "address": "9 N 2nd St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "567 N Jefferson Pl, Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -90.0422691, 
+            "name": "The Edison Apartments", 
+            "lats": 35.1439393, 
+            "address": "567 N Jefferson Pl, Memphis, TN 38105, United States"
+        }
+    }, 
+    "1393 Lapaloma Cir, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.19409809999999, 
+            "name": "Westwood Apartments", 
+            "lats": 35.1404213, 
+            "address": "501 S Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "2459 Ketchum Rd, Memphis, TN 38114, United States": {
+        "info": {
+            "longs": -90.1937186, 
+            "name": "Forrest Park & Avalon Apartments", 
+            "lats": 35.1565226, 
+            "address": "906 N Avalon St, West Memphis, AR 72301, United States"
+        }
+    }, 
+    "6081 Summer Ave, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -89.9404122, 
+            "name": "Sherwood Apartments", 
+            "lats": 35.0983787, 
+            "address": "3667 Rhodes Ave # 1, Memphis, TN 38111, United States"
+        }
+    }, 
+    "810 Washington Ave, Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -90.0294449, 
+            "name": "Woodglen Village Apartments", 
+            "lats": 35.2028219, 
+            "address": "2820 Hibiscus Ln, Memphis, TN 38127, United States"
+        }
+    }, 
+    "1045 E E.H.Crump Blvd, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.01635999999999, 
+            "name": "The Broadmoor Apartments", 
+            "lats": 35.13400800000001, 
+            "address": "290 S Cleveland St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "641, Southern Oaks Pl, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.9247279, 
+            "name": "Grahamwood Place Apartments", 
+            "lats": 35.1474225, 
+            "address": "4045 Summer Ave, Memphis, TN 38122, United States"
+        }
+    }, 
+    "1528 Ragan St, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.992069, 
+            "name": "Hermitage Apartments", 
+            "lats": 35.11541899999999, 
+            "address": "1103 Cooper St # 1, Memphis, TN 38114, United States"
+        }
+    }, 
+    "543 N Mendenhall Rd, Memphis, TN 38117, United States": {
+        "info": {
+            "longs": -90.0542473, 
+            "name": "Riverset Apartments", 
+            "lats": 35.17382949999999, 
+            "address": "100 Riverset Ln, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3716 Winchester Rd, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -90.0421336, 
+            "name": "Jefferson Place", 
+            "lats": 35.1452626, 
+            "address": "560 S Jefferson Pl, Memphis, TN 38105, United States"
+        }
+    }, 
+    "3094 Autumnwood Ave, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.97610399999999, 
+            "name": "Alero Apartments", 
+            "lats": 35.138717, 
+            "address": "130 N Merton St, Memphis, TN 38112, United States"
+        }
+    }, 
+    "262 Chelsea Ave, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -89.86492299999999, 
+            "name": "Madison Humphreys Center Apartments", 
+            "lats": 35.135661, 
+            "address": "330 N Humphreys Blvd, Memphis, TN 38120, United States"
+        }
+    }, 
+    "838 Walker Ave, Memphis, TN 38126, United States": {
+        "info": {
+            "longs": -90.0258759, 
+            "name": "Senior Living at University Place", 
+            "lats": 35.1300982, 
+            "address": "600 S Somerville St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1701 N Avalon St, West Memphis, AR 72301, United States": {
+        "info": {
+            "longs": -90.0539477, 
+            "name": "Metro 67", 
+            "lats": 35.1451492, 
+            "address": "67 Madison Ave, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3995 N Watkins St, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -90.0421336, 
+            "name": "Jefferson Place", 
+            "lats": 35.1452626, 
+            "address": "560 S Jefferson Pl, Memphis, TN 38105, United States"
+        }
+    }, 
+    "2718 Claudette Rd, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -90.011042, 
+            "name": "Almadura Apartments", 
+            "lats": 35.143098, 
+            "address": "175 Stonewall St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "252 N Lauderdale St, Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -90.04327099999999, 
+            "name": "Uptown Square Apartments", 
+            "lats": 35.1504959, 
+            "address": "252 N Lauderdale St, Memphis, TN 38105, United States"
+        }
+    }, 
+    "190 N Auburndale St, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -89.86635179999999, 
+            "name": "Crossings at Fox Meadows", 
+            "lats": 35.0696125, 
+            "address": "2894 Putting Green Cove, Memphis, TN 38115, United States"
+        }
+    }, 
+    "592 Patterson St # 1, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.9487578, 
+            "name": "Williamsburg Apts", 
+            "lats": 35.1300415, 
+            "address": "66 Prescott St, Memphis, TN 38111, United States"
+        }
+    }, 
+    "291 E Pontotoc Ave, Memphis, TN 38126, United States": {
+        "info": {
+            "longs": -89.9680712, 
+            "name": "Lamar Crossing Apartments", 
+            "lats": 35.0904076, 
+            "address": "2881 Lamar Ave, Memphis, TN 38114, United States"
+        }
+    }, 
+    "4653 Cotton Dr, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -89.8731409, 
+            "name": "Brentwood Place Apartments", 
+            "lats": 35.1753667, 
+            "address": "1835 Sycamore View Rd, Memphis, TN 38134, United States"
+        }
+    }, 
+    "3606 Walker Ave, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.8657259, 
+            "name": "Bella Vista Apartments", 
+            "lats": 35.0593884, 
+            "address": "5958 Hickory Hill Square, Memphis, TN 38115, United States"
+        }
+    }, 
+    "1500 Parkway View, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.9528735, 
+            "name": "Eastern Heights Apartments", 
+            "lats": 35.1403633, 
+            "address": "281 W Johnson Cir, Memphis, TN 38112, United States"
+        }
+    }, 
+    "6332 Village Grove Dr, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -89.9912564, 
+            "name": "Highland Meadows Apartments", 
+            "lats": 35.0105893, 
+            "address": "5001 Airways Blvd, Memphis, TN 38116, United States"
+        }
+    }, 
+    "2155 Deer Crest Ln, Memphis, TN 38134, United States": {
+        "info": {
+            "longs": -90.01635999999999, 
+            "name": "The Broadmoor Apartments", 
+            "lats": 35.13400800000001, 
+            "address": "290 S Cleveland St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1101 S Avalon St, West Memphis, AR 72301, United States": {
+        "info": {
+            "longs": -89.95305230000001, 
+            "name": "Woodlake Apartments", 
+            "lats": 35.0508525, 
+            "address": "3314 N Woodlake Cir, Memphis, TN 38118, United States"
+        }
+    }, 
+    "9 E Carolina Ave, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.839514, 
+            "name": "Kirby Station Apartments", 
+            "lats": 35.103293, 
+            "address": "6653 N Quail Hollow Rd, Memphis, TN 38120, United States"
+        }
+    }, 
+    "3667 Rhodes Ave # 1, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -86.6717659, 
+            "name": "ForRent.Com", 
+            "lats": 33.4111287, 
+            "address": "1401 Doug Baker Blvd, Birmingham, AL 35242, United States"
+        }
+    }, 
+    "3789 Andreas Dr, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -89.992069, 
+            "name": "Hermitage Apartments", 
+            "lats": 35.11541899999999, 
+            "address": "1103 Cooper St # 1, Memphis, TN 38114, United States"
+        }
+    }, 
+    "994 N Watkins St, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -90.0103206, 
+            "name": "Saints Court Apartments", 
+            "lats": 35.1656032, 
+            "address": "994 N Watkins St, Memphis, TN 38107, United States"
+        }
+    }, 
+    "101 Veranda Blvd, Southaven, MS 38671, United States": {
+        "info": {
+            "longs": -90.01439099999999, 
+            "name": "Town House Apartment Homes", 
+            "lats": 35.1261857, 
+            "address": "1437 Central Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "777 Mt Moriah Rd # 13, Memphis, TN 38117, United States": {
+        "info": {
+            "longs": -90.0502668, 
+            "name": "Alexmire Apartments", 
+            "lats": 35.1153063, 
+            "address": "359 E McLemore Ave, Memphis, TN 38106, United States"
+        }
+    }, 
+    "960 Catbird Ct, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.87082339999999, 
+            "name": "Plum Tree Apartments", 
+            "lats": 35.0506566, 
+            "address": "3595 Pine Tree Ct, Memphis, TN 38115, United States"
+        }
+    }, 
+    "62 N Main St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.037143, 
+            "name": "Annandale Garden Apartments", 
+            "lats": 35.1729162, 
+            "address": "1086 Nichols Blvd, Memphis, TN 38103, United States"
+        }
+    }, 
+    "3080 Walnut Grove Rd, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.86492299999999, 
+            "name": "Madison Humphreys Center Apartments", 
+            "lats": 35.135661, 
+            "address": "330 N Humphreys Blvd, Memphis, TN 38120, United States"
+        }
+    }, 
+    "2690 Drury Way Ln, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.0268566, 
+            "name": "University Place", 
+            "lats": 35.1314734, 
+            "address": "1045 E E.H.Crump Blvd, Memphis, TN 38104, United States"
+        }
+    }, 
+    "3295 Riverdale Rd, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.8634716, 
+            "name": "The Enclave Apartment Homes", 
+            "lats": 35.0684703, 
+            "address": "2940 Hickory Hill Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "3338 Summer Pl Ln, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.0014257, 
+            "name": "Canderra Park Apartments", 
+            "lats": 35.0492437, 
+            "address": "3644 Duchess Dr N, Memphis, TN 38116, United States"
+        }
+    }, 
+    "3990 Stephanie Ln, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -89.8594571, 
+            "name": "Eton Square", 
+            "lats": 35.05852280000001, 
+            "address": "3315 Ridgeway Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "1669 Randolph Pl, Memphis, TN 38120, United States": {
+        "info": {
+            "longs": -89.929175, 
+            "name": "The Grove at Hedgemoor Apartments", 
+            "lats": 35.142033, 
+            "address": "385 N Graham St, Memphis, TN 38117, United States"
+        }
+    }, 
+    "1726 S Orleans St, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -90.0017701, 
+            "name": "Rosecrest", 
+            "lats": 35.1363152, 
+            "address": "45 S Idlewild St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1571 Galloway Ave, Memphis, TN 38112, United States": {
+        "info": {
+            "longs": -90.025038, 
+            "name": "Memphis Towers", 
+            "lats": 35.14069199999999, 
+            "address": "1081 Court Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "387 S Highland St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -89.86492299999999, 
+            "name": "Madison Humphreys Center Apartments", 
+            "lats": 35.135661, 
+            "address": "330 N Humphreys Blvd, Memphis, TN 38120, United States"
+        }
+    }, 
+    "4635 Forest Oak Way, Memphis, TN 38118, United States": {
+        "info": {
+            "longs": -89.96060299999999, 
+            "name": "Tillman Cove Apartments", 
+            "lats": 35.1386351, 
+            "address": "3019 Tillman Cove, Memphis, TN 38112, United States"
+        }
+    }, 
+    "1215 Springdale St, Memphis, TN 38108, United States": {
+        "info": {
+            "longs": -90.0140655, 
+            "name": "Parcels at Concourse", 
+            "lats": 35.152043, 
+            "address": "1350 Concourse Avenue, Memphis, TN 38104, United States"
+        }
+    }, 
+    "3471 W Briarpark Dr, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.8519639, 
+            "name": "Ridgeway Terrace Apartments", 
+            "lats": 35.054901, 
+            "address": "6332 Village Grove Dr, Memphis, TN 38115, United States"
+        }
+    }, 
+    "2801 Raja Dr, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -90.025038, 
+            "name": "Memphis Towers", 
+            "lats": 35.14069199999999, 
+            "address": "1081 Court Ave, Memphis, TN 38104, United States"
+        }
+    }, 
+    "1344 Clementine Rd, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.929175, 
+            "name": "The Grove at Hedgemoor Apartments", 
+            "lats": 35.142033, 
+            "address": "385 N Graham St, Memphis, TN 38117, United States"
+        }
+    }, 
+    "1985 Madison Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.99747900000001, 
+            "name": "Lapaloma Apartments", 
+            "lats": 35.1069572, 
+            "address": "1393 Lapaloma Cir, Memphis, TN 38114, United States"
+        }
+    }, 
+    "4485 Hudgins Rd, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.95305230000001, 
+            "name": "Woodlake Apartments", 
+            "lats": 35.0508525, 
+            "address": "3314 N Woodlake Cir, Memphis, TN 38118, United States"
+        }
+    }, 
+    "274 S Highland St, Memphis, TN 38111, United States": {
+        "info": {
+            "longs": -90.06103499999999, 
+            "name": "Crescent Bluff Apartments", 
+            "lats": 35.125247, 
+            "address": "25 E Virginia Ave, Memphis, TN 38106, United States"
+        }
+    }, 
+    "130 S Front St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -89.94554099999999, 
+            "name": "Highland Row", 
+            "lats": 35.12100599999999, 
+            "address": "387 S Highland St, Memphis, TN 38111, United States"
+        }
+    }, 
+    "2820 Hibiscus Ln, Memphis, TN 38127, United States": {
+        "info": {
+            "longs": -90.0017701, 
+            "name": "Rosecrest", 
+            "lats": 35.1363152, 
+            "address": "45 S Idlewild St, Memphis, TN 38104, United States"
+        }
+    }, 
+    "560 S Jefferson Pl, Memphis, TN 38105, United States": {
+        "info": {
+            "longs": -89.852148, 
+            "name": "Arbors River Oaks Apartment Homes", 
+            "lats": 35.1251268, 
+            "address": "225 Arbor Commons Cir, Memphis, TN 38120, United States"
+        }
+    }, 
+    "4499 Sawmill Dr, Memphis, TN 38128, United States": {
+        "info": {
+            "longs": -90.0113763, 
+            "name": "Riverbend Apartments", 
+            "lats": 35.2341293, 
+            "address": "3995 N Watkins St, Memphis, TN 38127, United States"
+        }
+    }, 
+    "305 S Bellevue Blvd, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.8870536, 
+            "name": "Aspenwood Square Apartments", 
+            "lats": 35.0604441, 
+            "address": "3235 S Mendenhall Rd, Memphis, TN 38115, United States"
+        }
+    }, 
+    "869-, 899 Kerr Ave, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -90.0021611, 
+            "name": "The Alma -- Midtown Place Apartments", 
+            "lats": 35.143085, 
+            "address": "190 N Auburndale St, Memphis, TN 38112, United States"
+        }
+    }, 
+    "731 Martin Luther King Jr Dr, Holly Springs, MS 38635, United States": {
+        "info": {
+            "longs": -89.9992692, 
+            "name": "The Gilmore Apartments", 
+            "lats": 35.1370557, 
+            "address": "6 S McLean Blvd, Memphis, TN 38104, United States"
+        }
+    }, 
+    "290 S Cleveland St, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.9984379, 
+            "name": "Pecan Park", 
+            "lats": 35.15309599999999, 
+            "address": "1818 North Pkwy, Memphis, TN 38112, United States"
+        }
+    }, 
+    "10 S Main St, Memphis, TN 38103, United States": {
+        "info": {
+            "longs": -90.05895199999999, 
+            "name": "Annex Lofts", 
+            "lats": 35.13769, 
+            "address": "345 S Front St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "1953 Philsar St, Memphis, TN 38106, United States": {
+        "info": {
+            "longs": -89.9255555, 
+            "name": "Ten Mile Creek", 
+            "lats": 35.07368410000001, 
+            "address": "2718 Claudette Rd, Memphis, TN 38118, United States"
+        }
+    }, 
+    "1137 Whitaker Dr, Memphis, TN 38116, United States": {
+        "info": {
+            "longs": -89.881968, 
+            "name": "Apartment Association-Greater", 
+            "lats": 35.1074386, 
+            "address": "5384 Poplar Ave, Memphis, TN 38119, United States"
+        }
+    }, 
+    "5384 Poplar Ave, Memphis, TN 38119, United States": {
+        "info": {
+            "longs": -89.79409199999999, 
+            "name": "Fieldstone Apartments Memphis", 
+            "lats": 35.057981, 
+            "address": "3333 Hacks Cross Rd, Memphis, TN 38125, United States"
+        }
+    }, 
+    "5490 Fog Hollow Ln, Memphis, TN 38125, United States": {
+        "info": {
+            "longs": -89.839514, 
+            "name": "Kirby Station Apartments", 
+            "lats": 35.103293, 
+            "address": "6653 N Quail Hollow Rd, Memphis, TN 38120, United States"
+        }
+    }, 
+    "930 S White Station Rd, Memphis, TN 38117, United States": {
+        "info": {
+            "longs": -86.6717659, 
+            "name": "ForRent.Com", 
+            "lats": 33.4111287, 
+            "address": "1401 Doug Baker Blvd, Birmingham, AL 35242, United States"
+        }
+    }, 
+    "374 Mill Ave, Memphis, TN 38107, United States": {
+        "info": {
+            "longs": -90.0377649, 
+            "name": "Metropolitan Apartments", 
+            "lats": 35.157921, 
+            "address": "374 Mill Ave, Memphis, TN 38107, United States"
+        }
+    }, 
+    "2778 Pickering Dr, Memphis, TN 38115, United States": {
+        "info": {
+            "longs": -90.00889330000001, 
+            "name": "Cane Creek Apartments", 
+            "lats": 35.1043678, 
+            "address": "1528 Ragan St, Memphis, TN 38106, United States"
+        }
+    }, 
+    "1214 Overton Park Ave, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -89.8451674, 
+            "name": "Country Oaks Apartments", 
+            "lats": 35.0440716, 
+            "address": "6555 N Country Oaks Cir, Memphis, TN 38115, United States"
+        }
+    }, 
+    "1350 Concourse Avenue, Memphis, TN 38104, United States": {
+        "info": {
+            "longs": -90.04754799999999, 
+            "name": "Fielder Square", 
+            "lats": 35.14218399999999, 
+            "address": "70 S 4th St, Memphis, TN 38103, United States"
+        }
+    }, 
+    "1810 W Wolfchase Cir, Cordova, TN 38016, United States": {
+        "info": {
+            "longs": -89.86567699999999, 
+            "name": "Lynnfield Place", 
+            "lats": 35.09375600000001, 
+            "address": "5900 Cedar Forrest Dr, Memphis, TN 38119, United States"
+        }
+    }
+}

@@ -1,0 +1,744 @@
+{
+    "html_attributions": [], 
+    "next_page_token": "CqQDlgEAAGuONtpv1umcUq5178Rgs4aFWjbLHhRroRH_NjauEg6_ZmCCCSxr0LoInFfQAxtNFqeD12TLohAOgTzCC-mJm-u2a7PH5zUQXhJAGlKNfg3q4ls5vUOgIoEf0wnUoyJ1Dh__xMxcgLku32hoDFAQbjY1GcmvyyqBx5iwRxq4tziKWOzDtKUMif5yl4GHqsIqkFHgDeBAXosc0x7vzJCj-tSmUeseA3wBf6yu_ck8ea2GlRvUGgFwM-kQZ-YM8ist63W_pDwbLpCrX5_bGv7Ix159EBtTbw7NsRcN2o3wQCwvzFEjmaqudbQpNeuCvu_cpoJpWYbYGOefkSH2ALrp8S8gzcZxyAqjzO68ROxIeRqwHZULSbChSj1XLEscJG7Id8cLFfhXAWZYrQbSY4Mof5LSpxz7sXPcpmymHhbM9O0FK4LWvySTMq-9EpuKCmWvYtw58oFVHYidgP2Uqi0sRTzzBoZBzo74PFDlrb34Ak8meuvTrYmSuOUER38Xamq2zTMnmp-1bdfkPKgNoq6LGM22Xqase90M2cR_9QPzmf-dEhBNT6NOyz8KjB6CDbnF7ke-GhSrNxLjtq-TKd55cCCz0oWWFz1B2Q", 
+    "results": [
+        {
+            "formatted_address": "1344 Clementine Rd, Memphis, TN 38106, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.07288129999999, 
+                    "lng": -90.0171977
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.07423643029149, 
+                        "lng": -90.01584801970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.07153846970849, 
+                        "lng": -90.0185459802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "f703a890cd5600ff5665c73f863d081d69a9a4a0", 
+            "name": "Warren Apartments", 
+            "photos": [
+                {
+                    "height": 600, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112284974235955125730/photos\">Tamesha LOBBINS.</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAuTmKeoYZNUVvTJCbLxYiY-xYd1BFQUTHwJt0Y7tXWDfYrhaJr51Zii-nXzew-ftR0LJCeONbwcA90aAFkUMLM6vWySYpw0aLlYvt67mgFJpdoc6js_WsGEhSpnL9N0Y8EhDxxjfLPp9QNr0MuqBLDTiLGhT5S76gZfByE-K4Pirq_30bfv34CA", 
+                    "width": 800
+                }
+            ], 
+            "place_id": "ChIJ3YX0vnJ91YcRsaA1XQeGwCs", 
+            "rating": 1.4, 
+            "reference": "CmRRAAAAOnkdEiPJLHxLRJrOnWyPmIK4m4ujmmmXcUWo5kgYU4oMxF4tJUmihFpqNShxmfHfS6UDi1fobLpL4CYGS-BsguDV8AUIwcPKl9yaud4R90xnvE9bvN7YsIGT8ZSIful5EhA7jE-HQT1wxTpKzr7MPZtXGhSDheY_15oxbnIoPGAowqSABEMkxg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3130 S Mendenhall Rd, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0631787, 
+                    "lng": -89.8845924
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0645455802915, 
+                        "lng": -89.88382966970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.06184761970851, 
+                        "lng": -89.8865276302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "1e010b16f480bcabd63e0570440f3b90aaaae166", 
+            "name": "Ivy Chase Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "place_id": "ChIJrfSRDAuFf4gREGCEIMERr6w", 
+            "rating": 3, 
+            "reference": "CmRSAAAA_JsZxMOQZegtRy45WnDOIvlzrURVsB0tuxj6j1eF9AHe-bqcEFjrhr76YZWUAmtSWmfmDYf5KJJrAodWcpLKrJfWt20xGd_jAiaRaOqtz4sqLd9HL0FYqBvLqZBcY8Q0EhDWf8x682HsmAuEeaHJbKKVGhQzj12QuktbDrkBiexkTHSgdgy0Iw", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "4733 Heather Row, Memphis, TN 38141, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0187116, 
+                    "lng": -89.833219
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.02006188029149, 
+                        "lng": -89.8317949197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.01736391970849, 
+                        "lng": -89.8344928802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "04d610a75b2faacbb9995c39e73f8cbd3101aced", 
+            "name": "Hedgerow Apartments", 
+            "place_id": "ChIJVSblHhWQf4gR1qo6Csc_8rE", 
+            "rating": 1.9, 
+            "reference": "CmRSAAAA8l9gVkN5WH7yvBk3yu6rVcjai5lR1PRJl9thxp5dC16W0sBh-aCs-ACofuAEviT62KGssGtnRfEePgq0TKbF-vgTG4gVV_6ygcmmIQGjlh-qmShPM-d7F4pdjSP-f8lHEhBmucywKehS_mb4X4AuTbuiGhTifemC2Qu4VA_f3rzCMj1OiAE27g", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "2295 Candlewyck Cir, Memphis, TN 38114, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0818261, 
+                    "lng": -89.9868838
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.08298093029151, 
+                        "lng": -89.98556786970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.08028296970851, 
+                        "lng": -89.98826583029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "87c9d12f394c95e85057ec41c2a652ea801e6c8d", 
+            "name": "Rivertown Square Apartments", 
+            "place_id": "ChIJQ8RB_nWHf4gRp9BVD6Wmq3Y", 
+            "rating": 2.3, 
+            "reference": "CmRRAAAALjEw8VGa92GcLVd_EGt7BdJId33DaR-W-1mAuzKGT8nub2A62rWHQ5_qXLJ5zZOt2UjJy8X60l5apVw8AV8FFDIx8zdwOAHqXfGc1XHiXsrmRBcHQrcy_bi9iJCEU-Q5EhCs0VQQWSFw_HY5aKjLkCP2GhQmyrrjK8O3afZxLzfgPaUombc_xQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3450 Fescue Ln, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.055318, 
+                    "lng": -89.855431
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0564624802915, 
+                        "lng": -89.85410336970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.0537645197085, 
+                        "lng": -89.8568013302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "18200d73892168dff47b3ca9064816a5055fcd58", 
+            "name": "Village Green Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 768, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100163080815351513011/photos\">Village Green Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAnBRXWSc4sWFdqmzEjrWmTsVHOrtAGESEsnVPIdHhbMfFYTYcSp8LTsvNZlqolFLWFO4B4exJxCgxEBJMhjsERhmVhyYzhGiHInkiKYiO89lmmRojreGt8kBZXx-FJj8bEhC7bTxoHan33QwTHL0R8smRGhQ7KnXHOTn4IRw6J-_OEfbmzkQTNw", 
+                    "width": 1024
+                }
+            ], 
+            "place_id": "ChIJkbW8VEmFf4gRG5AdwEGZjn4", 
+            "rating": 2.5, 
+            "reference": "CmRRAAAAOQ-9ZAd6ZsdwuDC9D7fn5LqYXEQN_C-MTwUoJIZNQ6kKX1usILnE9AxNxlc7baEqeKpxWk4-Yk5HMnYm9FbNGj7RlvqTt8NyCCqW0vcdYQcyRL3VVv4V5HrhBIUBh77lEhC-D173sC43MFzztANHHomEGhRKpB5yb25iWzdgTFF-IFsoO11Aeg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "4635 Forest Oak Way, Memphis, TN 38118, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0523101, 
+                    "lng": -89.9095232
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.05343798029151, 
+                        "lng": -89.90818786970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.05074001970851, 
+                        "lng": -89.9108858302915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "dd695afb66093832612e97b728fb48581cd35d3f", 
+            "name": "Dogwood Trace Apartments", 
+            "place_id": "ChIJ-Xhat-2Ff4gRaSKceV87lAg", 
+            "rating": 3.3, 
+            "reference": "CmRRAAAAWF8SyqTrAUUvwXh14ID9ujFam0-E8nJualt9IBfZ5WhgHxmeTlTv8GdnaovDsgW3EhDEOWN1mEKFPxz5RI_6kGohVGuDFGRzbEZOd0ebTkKeJ4jG-0zeUSwX0y4ntxIoEhDofY6R3HK3Dvy3iAEWTu-DGhQkF0KXYDVXQuOzgtE9e4BIkKfRSg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3338 Summer Pl Ln, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.057667, 
+                    "lng": -89.862695
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0590158802915, 
+                        "lng": -89.86132631970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.0563179197085, 
+                        "lng": -89.8640242802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "a735e973e178893dbf774fa327c0aa97849a3f14", 
+            "name": "Emerald Park Apartments", 
+            "place_id": "ChIJeR-e_EaFf4gR8LmFelsndwc", 
+            "rating": 2.6, 
+            "reference": "CmRRAAAA2W_KAYjlWAAqHi2eNwW3B4qTQIfG8LGFooR5OkPHzIGjdrXhlPEeCPrNWLaJ6g9_wIGJS6jbiw5lXmfY4rRhC7dVxRXZWDIu9ZKpP2AFOawhDsM3eFJ1QDPXSras8Xm1EhCyyvYYEizV5yFAJiaR14WYGhTxWCtkA26tNqnRjFp4JHUIUdkiMw", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3235 S Mendenhall Rd, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0604441, 
+                    "lng": -89.8870536
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0617891802915, 
+                        "lng": -89.88554346970851
+                    }, 
+                    "southwest": {
+                        "lat": 35.0590912197085, 
+                        "lng": -89.88824143029152
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "7e65d30bef2a989d90294cec94e20003b6b49de1", 
+            "name": "Aspenwood Square Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "place_id": "ChIJafznS3WFf4gRy0M3HewDwMM", 
+            "rating": 1.3, 
+            "reference": "CmRSAAAAN30RSD9jEwzx5l4w0i36IyUD6VUWSV9OAsDY9xgEQrNQL8vMlgbCjmv6doHhdjuj6Zvo3zdfslZDCkoUosiRIjqSkYhmL2g6ez3NdcbWbzMNwFSOGbCoyONhgmCuO1laEhDhXjA7Gs_I7mgGW4ZUvl6nGhTGN-TsqhO6EcQih89WLfsfHPb4pQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "4653 Cotton Dr, Memphis, TN 38118, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0711279, 
+                    "lng": -89.9083841
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0726638802915, 
+                        "lng": -89.9070538197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.0699659197085, 
+                        "lng": -89.90975178029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "6306c6c6aa4bf7a2fbf48dab59b492155ff9c83c", 
+            "name": "Cottonwood Apartments", 
+            "photos": [
+                {
+                    "height": 1536, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115206266079428438442/photos\">Chelsea Urbina</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAv9xoy2kbHw7qHNW7lMo22IY3KiPuCL925jwDk1siCZRlwROevZmrTIoI9xCuEIsV_GKyrEwyjjFXRTVRvZrgFimjW2zmDUsHlX2n3Gbz4BjHgBb8U9SLFTPYmdCTnXYLEhDhJz7ukebpveWCGS2w36UQGhS0cYLIF0qXEQMniNGdx0hDYdAXbA", 
+                    "width": 2048
+                }
+            ], 
+            "place_id": "ChIJ30qJ2ceFf4gR2Z_SlM_FSDc", 
+            "rating": 3.4, 
+            "reference": "CmRRAAAAEc5uKL3CPsZdhQ5pq31UAdG5S-3aRbW3OE6ouVVDKQdcS3H4LcQby0XkeWJhVP25tdMN9A3tjw0i9CyZ0GCJMgguUH3zKshgE3OAYZa74qcenkHyAD3tgY74J6FA2uSCEhBh4eaaaOO2WavH2G6N8A_2GhRyJGNnzNWC_670kHh9PJFW9vm7zQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "2405 Alcy Manor Ln, Memphis, TN 38114, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.078981, 
+                    "lng": -89.99533550000001
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0803299302915, 
+                        "lng": -89.99398021970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.0776319697085, 
+                        "lng": -89.99667818029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "3e1c74b39f0b2a694df057f6cea94f39a869c30a", 
+            "name": "Alcy Garden Apartments", 
+            "place_id": "ChIJo3pR34OHf4gRhcfC4ouNUus", 
+            "rating": 5, 
+            "reference": "CmRSAAAAfKrbU8NJaRqXQSJwpZlATVGQz9n_vAu-KQlBg_3jxIhXFY8TEeVaoyN3OMgx3E0s8gCGHnlXqO5dBLZtbuGFZcqcaPHnZ-TS9edgT4LUe1I2f5adv5K8uLXbMbnuP96dEhDU6cwQKzX1-oOnBfCb7I5nGhSNVp-ZaKvUTG_zzihhwFy8WDfNgg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3463 Wingood Cir, Memphis, TN 38118, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.05485, 
+                    "lng": -89.9224911
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0562084802915, 
+                        "lng": -89.9214063197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.0535105197085, 
+                        "lng": -89.9241042802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "26bba37baca3ec7621c0f804e8380fe25abf82d1", 
+            "name": "Wingood Manor Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 1362, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100120939178511241704/photos\">Wingood Manor Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAAsz0zHmxJtlIEleCvjotXrXmfk280Gp_DkqPuXRb8e4jJATT3nH4lk4WjBTPGC180vwppXvkK-N-_5k9id9z2F97t5umAuzlDTWeEwXWLjJUO92a47IH39eNNVOeWnlEEhBhoxKLCM4P9JtBpPC1IRRhGhRUY-nehC9BpJkJl-xOFqgas_GZxA", 
+                    "width": 2048
+                }
+            ], 
+            "place_id": "ChIJYRlfK-KFf4gRPyUP0CflIN0", 
+            "rating": 1.9, 
+            "reference": "CmRSAAAArdUpi6rOq8Jr2PKirJzQvsMubL8zXRW673apaLc_l8NgYYtlI-TwOxtwLRKMqDboj2F3nWHiq__jCgwM_fASG5JpdIywW7Mr2w1U1ZmKQ_vr8FEa4LFw_UPW4MHrZji2EhBMpvrakocM7g3qTOXsrJTZGhQiESAqW_E7Nbq2Xgw8ycIUKX8P1A", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "5490 Fog Hollow Ln, Memphis, TN 38125, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 34.9959759, 
+                    "lng": -89.8071784
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.9974392302915, 
+                        "lng": -89.8058117197085
+                    }, 
+                    "southwest": {
+                        "lat": 34.9947412697085, 
+                        "lng": -89.80850968029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "e88831bca1906f905c3799242757207462cabbdb", 
+            "name": "Ashland Lakes Apartments", 
+            "place_id": "ChIJ7Qe-SfyQf4gRFBqvkOfzz8Q", 
+            "rating": 4.1, 
+            "reference": "CmRSAAAAwJHZRhGNzwqn28WWS5xF8E19xL-BTbJCQ2GUuU6wdgMOjKxB1O1sFKID3wct2wvg8yX5GtEkVMp_bWq_D5xG1_PPFthtwqtzvPfwKezsPj89W3nqUlx5SCXpPqA7ktGpEhBpg51joZdk1jAf8kh6OjgcGhRjwZv6mVwB1Gl0fEbA_SCZ7dkAHA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3169 Kirby Pkwy, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0624288, 
+                    "lng": -89.84417979999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.06377578029149, 
+                        "lng": -89.84261291970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.06107781970849, 
+                        "lng": -89.84531088029149
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "d88e0131fb9ada07b2dcfda2f014a8b0cb529822", 
+            "name": "The Ellington at Kirby Apartment Homes", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 638, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106660847264206683256/photos\">The Ellington at Kirby Apartment Homes</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAsb_r1deOTZ3N6wfNEzQiPDjt17TXfdHkrUGFZvSksKO8aZ9BHh5WF92vEkVVdMIuLtEG5L-Rm2k_-yZ5PMdGP6ZURr4AlKqehCyAKSCrmihXxaWl5bAEvLJheqgGXB0yEhABjdOE1Hr-jqS0UFE1xhxmGhQ5RQSMofKNZQt9YO6e1QlUDIlgKA", 
+                    "width": 1000
+                }
+            ], 
+            "place_id": "ChIJhaRF9cmaf4gRSNRwsTprwf8", 
+            "rating": 3, 
+            "reference": "CmRSAAAAZpIC2E98Up11QEGTrwEsy_DWt1q-NC7st7fQDg_dT0EQJvhVhcrwr7Li8UXhPov96OtXPtsqQzOClbyN0PcqIukqr81IZ_FA9Advmiq2LH3hIishv2SwQ37POjQkxm03EhBkmoSmpwMRMijxpFqWGn63GhQkbbAz-RhjmNBT910XaBj3iiHVdA", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3094 Autumnwood Ave, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.06342599999999, 
+                    "lng": -89.84566199999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0647800802915, 
+                        "lng": -89.8446015697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.0620821197085, 
+                        "lng": -89.84729953029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "a67250e631b03136b06c9567b44491e22a42746a", 
+            "name": "Autumnwood", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 370, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111697912694298435566/photos\">Autumnwood</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAaOomlpCLGanvvqdvQYutO-Akik75ITjBeCnFgGM4GyOruYyhhqNuRq5i6bOMOkfXHyxIlAwc_ic-GHfanZ_-PYv_CtAQj1Q4Y1mwEgRYH5hjSNVSickacnq9kN_nKXsWEhCJaGqKEYkgnH_GsIq75c4gGhTUouxeMYnzI5h3K-rq0VBTpxawJQ", 
+                    "width": 369
+                }
+            ], 
+            "place_id": "ChIJbUXg0Muaf4gR_awjXTP4JLM", 
+            "rating": 2.5, 
+            "reference": "CmRSAAAAf-G11hvDXgAMeW3GAlmGWxDSP3DKVIJfk1tlbrsMqyoBZkdaD7SPxvjKdCk-fYuF1hvLO91jn-qPh_uPKsCOqhEZPaFD4tuWfmVVAdyb06ZyOoVSNfgINoY4iPGuKG6UEhAwHS5Lwu-G2HrIcM2O1trXGhRARC98Si3JlyvfX71yirHcmm0GZw", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "5995 Waterstone Oak Way, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.05703, 
+                    "lng": -89.85914299999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0583804802915, 
+                        "lng": -89.8577957697085
+                    }, 
+                    "southwest": {
+                        "lat": 35.0556825197085, 
+                        "lng": -89.86049373029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "dfd70c71b1b75e5c5766b089f2e179ef081f64f9", 
+            "name": "The Lakes at Ridgeway Apartment Homes", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 1024, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105750334174788998930/photos\">yvng will</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAIYWh5vU4Di04w7QhJ6acisO4JaU75NcNIS2VnKypoc5KRX9dCipvU-IDKq29-H3xC_zGz3qtRfBuQYcM6GfXUJOe-FM34OWGH6GVoXtwN9UjeHVEcHK8j17kbLWYuYejEhBXVxYP0YlFG2xc5HsmLyZDGhRewlA-CRmiCOl5pYcMKIQcNPXawg", 
+                    "width": 768
+                }
+            ], 
+            "place_id": "ChIJiYJUP0aFf4gRTt698cW0aJ4", 
+            "rating": 2.4, 
+            "reference": "CmRSAAAAeS0yMPm0uMYkWX-Bl-w9k0LKtSxx-lsQ4lnzIHVQpG-j5u-LMOMjQUkV44xSXIzn5wSGA_ERTDMhZ6FJhbZoA16NfcSoziOy9M6MRMOZWJCS7LKc7ajRErJsFul7Mai8EhCwsjLzSz3KJA9FqL0_xr_VGhQtD0VT9mZzzUAA55kmZjBk7JmlIQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "6860 Quince Rd, Memphis, TN 38119, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.063917, 
+                    "lng": -89.83426
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0647617302915, 
+                        "lng": -89.83342035
+                    }, 
+                    "southwest": {
+                        "lat": 35.0620637697085, 
+                        "lng": -89.83677894999998
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "ac0da8e4d836624ee3288d5e76a260025fb01d43", 
+            "name": "Madison Cypress Lakes", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 878, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117942438662258188843/photos\">Madison Cypress Lakes</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAABue8miQVE8YRKj7iarSfSk9qbY2UuWb3IJb37jLW6WEjsy7lcdbaN8hmK40Hcy3YgjqmIYB4AeLOZtE0azinjN95hmY18df7Rl1iebclnNdtPP4XGZJnaiuamboTQVm_EhDT1UTtvaOtOKyWRwPc-scAGhQsrrS3jaagHwll0Y_Q98UsbHOOxA", 
+                    "width": 878
+                }
+            ], 
+            "place_id": "ChIJkRk9YcSaf4gRsM5GqUaT8vI", 
+            "rating": 2.3, 
+            "reference": "CmRSAAAAT8rsKgdNVuz1fHZvn4WS7aysy3wzpT-3mXg_1cNGx4DcmmZw6ZeAt03uokhI8qS4EWmSiE7tpwFhoJkuSzVCmk8-0RIASPlqrtjYJduy6dbIQZ-O1V8L931k1b28_t52EhC2dLok2FSk1xSNRbc8YhJsGhSVf-40tUnkXpuR4E0l1_1_zMeu6A", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "1875 Keltner Cir, Memphis, TN 38114, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.0949383, 
+                    "lng": -89.9969272
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.09614258029149, 
+                        "lng": -89.9956573197085
+                    }, 
+                    "southwest": {
+                        "lat": 35.09344461970849, 
+                        "lng": -89.9983552802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "39e047e36787a90820b9becf440c7e0892b930af", 
+            "name": "Thompson Courts", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 815, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103505450179649499429/photos\">Thompson Courts</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAArtIhPqyCeZPSUVKPQbr-YZnHdNH3Cthk1bPD_AMSsx58f_kOaPT4_hUZwrwo-BVvDt33A4NrIE8I7JB4Tib6mZ9N5opw5VWc7KecPUmyhGpbYrnxwgqWKLQ03jkbHBkrEhADSoBSSfJrYBkAeyy7zCsnGhSyQSTCeWjTT6YZqZNGOCj1EJxqgA", 
+                    "width": 1087
+                }
+            ], 
+            "place_id": "ChIJx17DFmOHf4gR5_n4STOMxqc", 
+            "rating": 4.3, 
+            "reference": "CmRSAAAAWdIcXlKfr5MxOh_GNuAZQ11ltyCwxf1k206OFzICZYQBXBrhHeBGfVifQOdZbSF8p6k7wV5iVNWGQygI-YRAcC-8fdfsXp-y75Kca4ITEIktBEPr3Ry4qlKHngqWMbHLEhB7BE4l1bAHQDztxLdDE64NGhRDpWVdgYjQSP0AdKXvU-tYf5GjDQ", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "1500 Parkway View, Memphis, TN 38106, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.1099828, 
+                    "lng": -90.01208059999999
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.1113317802915, 
+                        "lng": -90.01073161970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.1086338197085, 
+                        "lng": -90.0134295802915
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "c235f729588f7f1cb8ddec4d055f135d46f3ca58", 
+            "name": "Parkway Commons", 
+            "place_id": "ChIJ62SZhO591YcRlObLkaRkVgU", 
+            "rating": 4, 
+            "reference": "CmRRAAAAuMSSpHFWA24LZv39HrhxIxY81SaWiwtM87iTOIH_8UxF3TLv9tbpB36dTrcd1JCWmwROuZErnxKVtYgj1uNqR1sYX4mj79-qTB5FgTjwWP7uosHvI4qzKI9koXkAj_N0EhCdtlrnhSUpTgSsDGDQYV_IGhQ0elq7VcfJH_U2Y41OSGS_N9ARXg", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "6653 N Quail Hollow Rd, Memphis, TN 38120, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.103293, 
+                    "lng": -89.839514
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.10532444999998, 
+                        "lng": -89.83867031970848
+                    }, 
+                    "southwest": {
+                        "lat": 35.10261585000001, 
+                        "lng": -89.84136828029149
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "5b01822321d445a70cf71f3ff69d509e5d1b018c", 
+            "name": "Kirby Station Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 1367, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100466537160570832464/photos\">Kirby Station Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAANmzRekiIiM6nnLXuhdWEKFYjF1B0yY5ZJ5IvgdWxrinPKxHI7N1REHKnCFMMl_FBS1qLaRsxPC1SqN1PydiVWCNjyoZt0AsyZKw-ATCBJNUZhcR9gT2y3fnVTCCo8-z1EhCsTneigXgCqTTF8Xx5XEQfGhTjMbb5kG7VKxh-NGjQJ0ZMbTgh4w", 
+                    "width": 1370
+                }
+            ], 
+            "place_id": "ChIJ00ZF-Tebf4gRhQ40ZHOh76g", 
+            "rating": 3.6, 
+            "reference": "CmRSAAAAV_jwsoJnn0XJPZzpMYwh48H7Vd0JPEI5Ljg6_uwchO6OAHs1SqvlKEf_IUH1LxbL9u2FaWNLM6N8g0VbF_CCaCyvBTKMwsa-HYT1u4vykscazvgByozuTyMJ6e5Dx2xyEhAHjoYh12yLPJzA7NFg6UNQGhTCBZfRzknDPaaZsE6Sw_Wd2AEy7g", 
+            "types": [
+                "real_estate_agency", 
+                "point_of_interest", 
+                "establishment"
+            ]
+        }, 
+        {
+            "formatted_address": "3822 Hickory Farms Dr, Memphis, TN 38115, United States", 
+            "geometry": {
+                "location": {
+                    "lat": 35.043539, 
+                    "lng": -89.857188
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.0448930802915, 
+                        "lng": -89.85587911970849
+                    }, 
+                    "southwest": {
+                        "lat": 35.0421951197085, 
+                        "lng": -89.85857708029151
+                    }
+                }
+            }, 
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png", 
+            "id": "a9fc16222057e2cdcde720cea16bd0e2806f05af", 
+            "name": "Hickory Farm Apartments", 
+            "opening_hours": {
+                "open_now": true, 
+                "weekday_text": []
+            }, 
+            "photos": [
+                {
+                    "height": 790, 
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103191928771983592728/photos\">Hickory Farm Apartments</a>"
+                    ], 
+                    "photo_reference": "CmRaAAAAwnkw-kSZ6I4kP0PUggp6rwSUYkU6H4Acl8fwfQM75GmrtOgo6g2jKuX14r6xEumLovU9Qard6VkNEDuHQ9ALc8odpL2fZfirKUkk_BepSLDzg1O1-hKeNvkQyX6EGL8ZEhDOZFRyPxsFwAkE6OcwZG-9GhQO-JV4GiQYrrLPaFlSiR5pghE9WA", 
+                    "width": 791
+                }
+            ], 
+            "place_id": "ChIJBYlWK1GFf4gRrN02bldpDB4", 
+            "rating": 3.9, 
+            "reference": "CmRRAAAA9wRWn3GGzjjzpytq6mFnkzV0LVDLEukbxiCTkDEc3jspC0fvVqxEzVEXSpwx8M62jlSg2pebcu2yhH7-0uGfq-ghQ6MG4cOJUoCxtjxhBUd884ODrkJikDM8XIFSJ35pEhAFioDpK0IvT6n9PjimckZTGhRnheh7V3jiZJsq0ANdSklRh7tP1g", 
+            "types": [
+                "point_of_interest", 
+                "establishment"
+            ]
+        }
+    ], 
+    "status": "OK"
+}
